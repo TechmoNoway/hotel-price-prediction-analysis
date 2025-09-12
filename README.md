@@ -1,45 +1,45 @@
 # Hotel Price Analysis Project 🏨📊
 
-Dự án phân tích và dự đoán giá khách sạn sử dụng dữ liệu thực từ Agoda với Machine Learning.
+This project analyzes and predicts hotel prices using real-world data from Agoda and Machine Learning techniques.
 
-## 📋 Tổng quan
+## 📋 Overview
 
-Dự án này thu thập, phân tích và xây dựng mô hình dự đoán giá khách sạn từ dữ liệu thực tế của các khách sạn tại Việt Nam, Nhật Bản và Hàn Quốc. Sử dụng API Crawlbase để tránh anti-bot protection và các thuật toán Machine Learning để dự đoán giá.
+This project collects, analyzes, and builds predictive models for hotel prices based on real data from hotels in Vietnam, Japan, and South Korea. It uses the Crawlbase API to bypass anti-bot protection and applies various Machine Learning algorithms for price prediction.
 
-## 🎯 Mục tiêu
+## 🎯 Objectives
 
-- Thu thập dữ liệu khách sạn thực tế (200+ khách sạn, 10+ đặc trưng)
-- Phân tích khám phá dữ liệu (EDA) 
-- Xây dựng mô hình dự đoán giá khách sạn
-- Tạo dashboard trực quan
-- Cung cấp insights cho ngành du lịch
+- Collect real hotel data (200+ hotels, 10+ features)
+- Perform exploratory data analysis (EDA)
+- Build hotel price prediction models
+- Create interactive dashboards
+- Provide insights for the tourism industry
 
-## 📊 Dữ liệu
+## 📊 Data
 
-### Nguồn dữ liệu
-- **Agoda**: Platform đặt phòng khách sạn hàng đầu
-- **Crawlbase API**: Bypass anti-bot protection
-- **3 quốc gia**: Việt Nam, Nhật Bản, Hàn Quốc
-- **15+ thành phố**: TP.HCM, Hà Nội, Tokyo, Seoul, v.v.
+### Data Sources
+- **Agoda**: Leading hotel booking platform
+- **Crawlbase API**: Bypasses anti-bot protection
+- **3 countries**: Vietnam, Japan, South Korea
+- **15+ cities**: Ho Chi Minh City, Hanoi, Tokyo, Seoul, etc.
 
-### Đặc trưng dữ liệu
-- `name`: Tên khách sạn
-- `price`: Giá phòng (VND)
-- `rating`: Đánh giá (1-10)
-- `review_count`: Số lượng review
-- `stars`: Hạng sao (3-5)
-- `location`: Vị trí
-- `city`: Thành phố
-- `country`: Quốc gia
-- `amenities`: Tiện nghi
-- `room_type`: Loại phòng
-- `distance_center`: Khoảng cách trung tâm (km)
+### Data Features
+- `name`: Hotel name
+- `price`: Room price (VND)
+- `rating`: Rating (1-10)
+- `review_count`: Number of reviews
+- `stars`: Star rating (3-5)
+- `location`: Location
+- `city`: City
+- `country`: Country
+- `amenities`: Amenities
+- `room_type`: Room type
+- `distance_center`: Distance from city center (km)
 
-### Đặc trưng sinh
-- `price_per_star`: Giá/sao
-- `price_category`: Phân loại giá
-- `rating_category`: Phân loại đánh giá
-- `value_score`: Điểm đánh giá giá trị
+### Engineered Features
+- `price_per_star`: Price per star
+- `price_category`: Price category
+- `rating_category`: Rating category
+- `value_score`: Value score
 
 ## Key Statistics
 
@@ -59,22 +59,22 @@ Dự án này thu thập, phân tích và xây dựng mô hình dự đoán giá
 - **4-star Superior**: 75 hotels (avg: 4,135,047 VND)
 - **3-star Standard**: 53 hotels (avg: 2,001,427 VND)
 
-## Files Structure
+## File Structure
 
 ```
 ├── comprehensive_hotels_data.csv     # Main dataset (198 hotels, 19 features)
 ├── comprehensive_hotels_data.json    # JSON backup
-├── hotel_dataset_summary.json       # Statistical summary
-├── dataset_description.json         # Dataset metadata
-├── comprehensive_hotel_dataset.py   # Dataset creation script
-├── agoda_crawler.py                 # Web scraping script
-├── analyze_hotel_data.py            # Analysis and ML script
-└── README.md                        # This file
+├── hotel_dataset_summary.json        # Statistical summary
+├── dataset_description.json          # Dataset metadata
+├── comprehensive_hotel_dataset.py    # Dataset creation script
+├── agoda_crawler.py                  # Web scraping script
+├── analyze_hotel_data.py             # Analysis and ML script
+└── README.md                         # This file
 ```
 
 ## Machine Learning Results
 
-### Regression Models Performance:
+### Regression Model Performance:
 - **Linear Regression**: R² = 0.573, RMSE = 2,053,494 VND
 - **Random Forest**: R² = 0.493, RMSE = 2,237,343 VND
 
