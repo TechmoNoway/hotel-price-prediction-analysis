@@ -4,7 +4,7 @@ from crawlbase import CrawlingAPI
 import pandas as pd
 
 
-crawling_api = CrawlingAPI({"token": "mAxUuT0XAE85j8BokcX2xQ"})
+crawling_api = CrawlingAPI({"token": ""})
 
 
 def crawling_data(city_id, city_name, country):
@@ -19,7 +19,7 @@ def crawling_data(city_id, city_name, country):
         hotels = []
         hotel_cards = soup.select("div[data-selenium='hotel-item']")
 
-        print(hotel_cards)
+        print(soup.select('div#contentContainer ol.hotel-list-container > li.PropertyCard'))
 
         # if not hotel_cards:
         #     print("None hotel found, could be blocked.")
@@ -87,6 +87,19 @@ def crawling_data(city_id, city_name, country):
 
         #     if len(hotels) >= 30:
         #         break
+
+        for hotel in soup.select('div#contentContainer ol.hotel-list-container > li.PropertyCard'):
+            name = hotel.select_one('h3[data-selenium="hotel-name"]').text.strip() if hotel.select_one('h3[data-selenium="hotel-name"]') else ''
+            price = hotel.select_one('div[data-element-name="final-price"]').text.strip() if hotel.select_one('div[data-element-name="final-price"]') else ''
+            rating = hotel.select_one('p[data-element-name="review-score"]').text.strip() if hotel.select_one('p[data-element-name="review-score"]') else ''
+            link = hotel.select_one('a.PropertyCard__Link')['href'] if hotel.select_one('a.PropertyCard__Link') else ''
+
+            hotels.append({
+                'name': name,
+                'price': price,
+                'rating': rating,
+                'link': f"https://www.agoda.com{link}"  # Complete the URL
+            })
 
         return hotels
 
