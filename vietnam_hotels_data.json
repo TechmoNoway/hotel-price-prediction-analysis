@@ -1,30 +1,13 @@
 [
   {
-    "hotel_name": "Khach san Muong Thanh Luxury Saigon Hotel",
-    "city": "Ho Chi Minh",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,411,299",
-    "price_per_night": 1411299,
-    "rating": "8.6 Excellent",
-    "review_count_text": "5,659 reviews",
-    "review_count": 5659,
-    "stars": 4,
-    "location": "Phú Nhuận, Ho Chi Minh City - 3.2 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+5"
-    ]
-  },
-  {
     "hotel_name": "Bay Hotel Ho Chi Minh",
     "city": "Ho Chi Minh",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,511,618",
-    "price_per_night": 1511618,
+    "price_per_night_text": "₫ 2,238,176",
+    "price_per_night": 2238176,
     "rating": "8.3 Excellent",
-    "review_count_text": "4,635 reviews",
-    "review_count": 4635,
+    "review_count_text": "4,634 reviews",
+    "review_count": 4634,
     "stars": 4,
     "location": "District 1, Ho Chi Minh City - City center",
     "amenities": [
@@ -34,41 +17,41 @@
     ]
   },
   {
+    "hotel_name": "LOTTE HOTEL SAIGON",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 4,572,727",
+    "price_per_night": 4572727,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "9,953 reviews",
+    "review_count": 9953,
+    "stars": 5,
+    "location": "District 1, Ho Chi Minh City - City center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+8"
+    ]
+  },
+  {
     "hotel_name": "Belvilla Comfort Stays Near SECC formerly Cozy Hotel",
     "city": "Ho Chi Minh",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 411,545",
-    "price_per_night": 411545,
+    "price_per_night_text": "₫ 424,252",
+    "price_per_night": 424252,
     "rating": "8.8 Excellent",
-    "review_count_text": "403 reviews",
-    "review_count": 403,
+    "review_count_text": "404 reviews",
+    "review_count": 404,
     "stars": 4,
     "location": "District 7, Ho Chi Minh City - 3.5 km to center",
     "amenities": []
   },
   {
-    "hotel_name": "Hotel Continental Saigon",
-    "city": "Ho Chi Minh",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,987,327",
-    "price_per_night": 1987327,
-    "rating": "8.4 Excellent",
-    "review_count_text": "7,861 reviews",
-    "review_count": 7861,
-    "stars": 4,
-    "location": "District 1, Ho Chi Minh City - City center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+3"
-    ]
-  },
-  {
     "hotel_name": "Yoko Airport Saigon Hotel",
     "city": "Ho Chi Minh",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 340,796",
-    "price_per_night": 340796,
+    "price_per_night_text": "₫ 357,736",
+    "price_per_night": 357736,
     "rating": "8.0 Excellent",
     "review_count_text": "1,464 reviews",
     "review_count": 1464,
@@ -81,42 +64,11 @@
     ]
   },
   {
-    "hotel_name": "LOTTE HOTEL SAIGON",
-    "city": "Ho Chi Minh",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 5,399,551",
-    "price_per_night": 5399551,
-    "rating": "9.0 Exceptional",
-    "review_count_text": "9,953 reviews",
-    "review_count": 9953,
-    "stars": 5,
-    "location": "District 1, Ho Chi Minh City - City center",
-    "amenities": []
-  },
-  {
-    "hotel_name": "Muong Thanh Saigon Centre Hotel",
-    "city": "Ho Chi Minh",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,665,166",
-    "price_per_night": 1665166,
-    "rating": "8.5 Excellent",
-    "review_count_text": "3,680 reviews",
-    "review_count": 3680,
-    "stars": 4,
-    "location": "District 1, Ho Chi Minh City - City center",
-    "amenities": [
-      "Breakfast",
-      "Welcome drink",
-      "Parking",
-      "+3"
-    ]
-  },
-  {
     "hotel_name": "Asian Ruby Center Point Hotel",
     "city": "Ho Chi Minh",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 430,545",
-    "price_per_night": 430545,
+    "price_per_night_text": "₫ 448,242",
+    "price_per_night": 448242,
     "rating": "7.6 Very good",
     "review_count_text": "2,938 reviews",
     "review_count": 2938,
@@ -130,63 +82,41 @@
     ]
   },
   {
-    "hotel_name": "Dazi Signature",
+    "hotel_name": "Khach san Muong Thanh Luxury Saigon Hotel",
     "city": "Ho Chi Minh",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,340,991",
-    "price_per_night": 1340991,
-    "rating": "8.7 Excellent",
-    "review_count_text": "1,834 reviews",
-    "review_count": 1834,
+    "price_per_night_text": "₫ 1,417,392",
+    "price_per_night": 1417392,
+    "rating": "8.6 Excellent",
+    "review_count_text": "5,659 reviews",
+    "review_count": 5659,
     "stars": 4,
-    "location": "District 1, Ho Chi Minh City - City center",
+    "location": "Phú Nhuận, Ho Chi Minh City - 3.2 km to center",
     "amenities": [
       "Breakfast",
-      "Parking",
-      "Express check-in",
-      "+2"
+      "Free fitness center access",
+      "+5"
     ]
   },
   {
-    "hotel_name": "LA PAIX SÀI GÒN - BOUTIQUE HOTEL",
+    "hotel_name": "Fusion Suites Saigon",
     "city": "Ho Chi Minh",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 995,111",
-    "price_per_night": 995111,
-    "rating": "8.5 Excellent",
-    "review_count_text": "1,500 reviews",
-    "review_count": 1500,
-    "stars": 3,
-    "location": "District 1, Ho Chi Minh City - City center",
-    "amenities": [
-      "Parking",
-      "Express check-in",
-      "Free WiFi"
-    ]
-  },
-  {
-    "hotel_name": "Sunshine Airport Hotel",
-    "city": "Ho Chi Minh",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 397,681",
-    "price_per_night": 397681,
-    "rating": "8.7 Excellent",
-    "review_count_text": "69 reviews",
-    "review_count": 69,
+    "price_per_night_text": "₫ 3,120,137",
+    "price_per_night": 3120137,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "6,638 reviews",
+    "review_count": 6638,
     "stars": 4,
-    "location": "Tân Bình, Ho Chi Minh City - 4.6 km to center",
-    "amenities": [
-      "Parking",
-      "Express check-in",
-      "Free WiFi"
-    ]
+    "location": "District 1, Ho Chi Minh City - City center",
+    "amenities": []
   },
   {
     "hotel_name": "Le Vu Hotel",
     "city": "Ho Chi Minh",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 310,255",
-    "price_per_night": 310255,
+    "price_per_night_text": "₫ 297,778",
+    "price_per_night": 297778,
     "rating": "8.4 Excellent",
     "review_count_text": "637 reviews",
     "review_count": 637,
@@ -196,6 +126,75 @@
       "Welcome drink",
       "Parking",
       "Room sanitizing",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Sunshine Airport Hotel",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 395,631",
+    "price_per_night": 395631,
+    "rating": "8.7 Excellent",
+    "review_count_text": "70 reviews",
+    "review_count": 70,
+    "stars": 4,
+    "location": "Tân Bình, Ho Chi Minh City - 4.6 km to center",
+    "amenities": [
+      "Parking",
+      "Express check-in",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "HAPPY LIFE GREEN HOTEL",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 563,809",
+    "price_per_night": 563809,
+    "rating": "8.2 Excellent",
+    "review_count_text": "3,005 reviews",
+    "review_count": 3005,
+    "stars": 4,
+    "location": "District 1, Ho Chi Minh City - 0.6 km to center",
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "G8 Riverside Hotel Saigon",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,101,467",
+    "price_per_night": 1101467,
+    "rating": "9.1 Exceptional",
+    "review_count_text": "100 reviews",
+    "review_count": 100,
+    "stars": 3,
+    "location": "District 1, Ho Chi Minh City - 0.3 km to center",
+    "amenities": [
+      "Breakfast",
+      "Express check-in",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Dazi Signature",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 800,387",
+    "price_per_night": 800387,
+    "rating": "8.7 Excellent",
+    "review_count_text": "1,834 reviews",
+    "review_count": 1834,
+    "stars": 4,
+    "location": "District 1, Ho Chi Minh City - City center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Express check-in",
       "+2"
     ]
   },
@@ -217,11 +216,92 @@
     ]
   },
   {
+    "hotel_name": "Hotel Continental Saigon",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 4,492,696",
+    "price_per_night": 4492696,
+    "rating": "8.4 Excellent",
+    "review_count_text": "7,860 reviews",
+    "review_count": 7860,
+    "stars": 4,
+    "location": "District 1, Ho Chi Minh City - City center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "HA NOI HOTEL near Tan Son Nhat Airport - FREE Airport Pick-Up and Drop-Off Available 24 Hours a Day",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 793,651",
+    "price_per_night": 793651,
+    "rating": "8.3 Excellent",
+    "review_count_text": "1,161 reviews",
+    "review_count": 1161,
+    "stars": 3,
+    "location": "Tân Bình, Ho Chi Minh City - 4.1 km to center",
+    "amenities": [
+      "Welcome drink",
+      "Airport drop-off",
+      "+9"
+    ]
+  },
+  {
+    "hotel_name": "Nicecy Hotel - Truong Quyen",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 559,021",
+    "price_per_night": 559021,
+    "rating": "9.4 Exceptional",
+    "review_count_text": "58 reviews",
+    "review_count": 58,
+    "stars": 2,
+    "location": "District 3, Ho Chi Minh City - 0.8 km to center",
+    "amenities": [
+      "Welcome drink",
+      "Late check-out",
+      "Parking",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Palace Hotel Saigon",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,344,074",
+    "price_per_night": 1344074,
+    "rating": "7.9 Very good",
+    "review_count_text": "6,232 reviews",
+    "review_count": 6232,
+    "stars": 4,
+    "location": "District 1, Ho Chi Minh City - City center",
+    "amenities": [
+      "Breakfast",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Vien Dong Hotel",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,357,765",
+    "price_per_night": 1357765,
+    "rating": "8.3 Excellent",
+    "review_count_text": "6,646 reviews",
+    "review_count": 6646,
+    "stars": 3,
+    "location": "District 1, Ho Chi Minh City - City center",
+    "amenities": []
+  },
+  {
     "hotel_name": "Cochin Zen Hotel",
     "city": "Ho Chi Minh",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,225,557",
-    "price_per_night": 1225557,
+    "price_per_night_text": "₫ 1,514,645",
+    "price_per_night": 1514645,
     "rating": "8.5 Excellent",
     "review_count_text": "6,227 reviews",
     "review_count": 6227,
@@ -234,99 +314,52 @@
     ]
   },
   {
-    "hotel_name": "Ace Hotel Ben Thanh",
+    "hotel_name": "Haven Hut Hotel",
     "city": "Ho Chi Minh",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 431,380",
-    "price_per_night": 431380,
-    "rating": "7.4 Very good",
-    "review_count_text": "3,413 reviews",
-    "review_count": 3413,
-    "stars": 3,
-    "location": "District 1, Ho Chi Minh City - City center",
+    "price_per_night_text": "₫ 532,134",
+    "price_per_night": 532134,
+    "rating": "8.4 Excellent",
+    "review_count_text": "1,169 reviews",
+    "review_count": 1169,
+    "stars": 2,
+    "location": "District 1, Ho Chi Minh City - 0.3 km to center",
     "amenities": [
-      "Express check-in",
-      "Free WiFi"
+      "Parking",
+      "Free Premium Wifi",
+      "+2"
     ]
   },
   {
-    "hotel_name": "Hotel Nikko Saigon",
+    "hotel_name": "Rex Hotel Saigon",
     "city": "Ho Chi Minh",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 3,628,578",
-    "price_per_night": 3628578,
-    "rating": "8.9 Excellent",
-    "review_count_text": "14,078 reviews",
-    "review_count": 14078,
+    "price_per_night_text": "₫ 2,571,678",
+    "price_per_night": 2571678,
+    "rating": "8.5 Excellent",
+    "review_count_text": "8,415 reviews",
+    "review_count": 8415,
     "stars": 5,
     "location": "District 1, Ho Chi Minh City - City center",
     "amenities": [
       "Breakfast",
-      "Afternoon tea",
-      "Parking",
-      "+7"
+      "Free fitness center access",
+      "+5"
     ]
   },
   {
-    "hotel_name": "Jovia Hotel",
+    "hotel_name": "CityHouse - City Oasis",
     "city": "Ho Chi Minh",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,461,260",
-    "price_per_night": 1461260,
-    "rating": "8.6 Excellent",
-    "review_count_text": "2,246 reviews",
-    "review_count": 2246,
-    "stars": 3,
-    "location": "District 1, Ho Chi Minh City - City center",
-    "amenities": []
-  },
-  {
-    "hotel_name": "Lotus  Airport  Hotel Saigon",
-    "city": "Ho Chi Minh",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 557,526",
-    "price_per_night": 557526,
-    "rating": "8.7 Excellent",
-    "review_count_text": "2,411 reviews",
-    "review_count": 2411,
-    "stars": 3,
-    "location": "Tân Bình, Ho Chi Minh City - 4.6 km to center",
-    "amenities": [
-      "Parking",
-      "Express check-in",
-      "Free WiFi"
-    ]
-  },
-  {
-    "hotel_name": "ibis Saigon Airport",
-    "city": "Ho Chi Minh",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,467,000",
-    "price_per_night": 1467000,
-    "rating": "8.6 Excellent",
-    "review_count_text": "13,106 reviews",
-    "review_count": 13106,
-    "stars": 4,
-    "location": "Tân Bình, Ho Chi Minh City - 4.9 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free WiFi",
-      "Airport transfer [both ways]"
-    ]
-  },
-  {
-    "hotel_name": "DAI NAM BOUTIQUE HOTEL",
-    "city": "Ho Chi Minh",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 960,956",
-    "price_per_night": 960956,
+    "price_per_night_text": "₫ 1,142,857",
+    "price_per_night": 1142857,
     "rating": "8.3 Excellent",
-    "review_count_text": "2,463 reviews",
-    "review_count": 2463,
-    "stars": 4,
-    "location": "District 1, Ho Chi Minh City - City center",
+    "review_count_text": "3,014 reviews",
+    "review_count": 3014,
+    "stars": 3,
+    "location": "District 1, Ho Chi Minh City - 0.3 km to center",
     "amenities": [
-      "Breakfast",
+      "Express check-in",
       "Free WiFi"
     ]
   },
@@ -334,8 +367,8 @@
     "hotel_name": "Sky Charm Hanoi Hotel and Spa",
     "city": "Hanoi",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 641,044",
-    "price_per_night": 641044,
+    "price_per_night_text": "₫ 697,028",
+    "price_per_night": 697028,
     "rating": "9.1 Exceptional",
     "review_count_text": "234 reviews",
     "review_count": 234,
@@ -370,8 +403,8 @@
     "hotel_name": "Ha Noi Memory Central Hotel & Spa",
     "city": "Hanoi",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 374,947",
-    "price_per_night": 374947,
+    "price_per_night_text": "₫ 498,611",
+    "price_per_night": 498611,
     "rating": "7.6 Very good",
     "review_count_text": "2,719 reviews",
     "review_count": 2719,
@@ -385,37 +418,41 @@
     ]
   },
   {
-    "hotel_name": "Little Charm Hanoi Hostel",
+    "hotel_name": "Hanoi Le Chateau Hotel & Spa",
     "city": "Hanoi",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 250,814",
-    "price_per_night": 250814,
-    "rating": "9.1 Exceptional",
-    "review_count_text": "6,703 reviews",
-    "review_count": 6703,
-    "stars": 3,
+    "price_per_night_text": "₫ 3,169,052",
+    "price_per_night": 3169052,
+    "rating": "9.8 Exceptional",
+    "review_count_text": "2,820 reviews",
+    "review_count": 2820,
+    "stars": 5,
     "location": "Old Quarter, Hanoi - City center",
     "amenities": []
   },
   {
-    "hotel_name": "La Casa Di Dicembre 18 Hang Chao",
+    "hotel_name": "Signature by M Village Thợ Nhuộm",
     "city": "Hanoi",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 331,019",
-    "price_per_night": 331019,
-    "rating": "8.9 Excellent",
-    "review_count_text": "178 reviews",
-    "review_count": 178,
-    "stars": 3,
-    "location": "Ba Dinh, Hanoi - 0.7 km to center",
-    "amenities": []
+    "price_per_night_text": "₫ 1,830,016",
+    "price_per_night": 1830016,
+    "rating": "9.2 Exceptional",
+    "review_count_text": "1,790 reviews",
+    "review_count": 1790,
+    "stars": 4,
+    "location": "Hoan Kiem District, Hanoi - 0.4 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
   },
   {
     "hotel_name": "Hanoi Daewoo Hotel",
     "city": "Hanoi",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,190,240",
-    "price_per_night": 2190240,
+    "price_per_night_text": "₫ 2,024,899",
+    "price_per_night": 2024899,
     "rating": "8.4 Excellent",
     "review_count_text": "6,456 reviews",
     "review_count": 6456,
@@ -428,28 +465,129 @@
     ]
   },
   {
-    "hotel_name": "Hanoi Le Chateau Hotel & Spa",
+    "hotel_name": "Eco Nest Signature Hotel",
     "city": "Hanoi",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,389,311",
-    "price_per_night": 1389311,
-    "rating": "9.8 Exceptional",
-    "review_count_text": "2,820 reviews",
-    "review_count": 2820,
+    "price_per_night_text": "₫ 406,219",
+    "price_per_night": 406219,
+    "rating": "7.8 Very good",
+    "review_count_text": "63 reviews",
+    "review_count": 63,
+    "stars": 4,
+    "location": "Dong Da, Hanoi - 2.3 km to center",
+    "amenities": [
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Hanoi Sail Hotel",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 555,450",
+    "price_per_night": 555450,
+    "rating": "9.5 Exceptional",
+    "review_count_text": "284 reviews",
+    "review_count": 284,
+    "stars": 4,
+    "location": "Hoan Kiem District, Hanoi - 0.9 km to center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Madelise Stardust Hotel & Travel",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 700,647",
+    "price_per_night": 700647,
+    "rating": "8.8 Excellent",
+    "review_count_text": "224 reviews",
+    "review_count": 224,
+    "stars": 4,
+    "location": "Hoan Kiem District, Hanoi - City center",
+    "amenities": [
+      "Free WiFi",
+      "Late check-in"
+    ]
+  },
+  {
+    "hotel_name": "Madelise Hanoi View Hotel",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 705,932",
+    "price_per_night": 705932,
+    "rating": "9.4 Exceptional",
+    "review_count_text": "296 reviews",
+    "review_count": 296,
+    "stars": 4,
+    "location": "Dong Da, Hanoi - 0.4 km to center",
+    "amenities": [
+      "Welcome drink",
+      "Car rental",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "M Village Hotel Thợ Nhuộm",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,266,974",
+    "price_per_night": 1266974,
+    "rating": "9.4 Exceptional",
+    "review_count_text": "502 reviews",
+    "review_count": 502,
+    "stars": 4,
+    "location": "Hoan Kiem District, Hanoi - 0.3 km to center",
+    "amenities": [
+      "Breakfast",
+      "Express check-in",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "La Mejor Indochine Hotel",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 3,056,033",
+    "price_per_night": 3056033,
+    "rating": "9.5 Exceptional",
+    "review_count_text": "647 reviews",
+    "review_count": 647,
     "stars": 5,
     "location": "Old Quarter, Hanoi - City center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
-      "+3"
+      "+7"
+    ]
+  },
+  {
+    "hotel_name": "Apricot Hotel",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 2,671,851",
+    "price_per_night": 2671851,
+    "rating": "8.9 Excellent",
+    "review_count_text": "2,730 reviews",
+    "review_count": 2730,
+    "stars": 5,
+    "location": "Hoan Kiem District, Hanoi - City center",
+    "amenities": [
+      "Breakfast",
+      "Express check-in",
+      "Free WiFi",
+      "+1"
     ]
   },
   {
     "hotel_name": "Madelise Amica Hotel & Travel",
     "city": "Hanoi",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 677,152",
-    "price_per_night": 677152,
+    "price_per_night_text": "₫ 763,932",
+    "price_per_night": 763932,
     "rating": "8.9 Excellent",
     "review_count_text": "859 reviews",
     "review_count": 859,
@@ -463,178 +601,11 @@
     ]
   },
   {
-    "hotel_name": "Grand Plaza Hotel Hanoi",
-    "city": "Hanoi",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,981,381",
-    "price_per_night": 1981381,
-    "rating": "8.3 Excellent",
-    "review_count_text": "5,300 reviews",
-    "review_count": 5300,
-    "stars": 5,
-    "location": "Cau Giay, Hanoi - 5.2 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+8"
-    ]
-  },
-  {
-    "hotel_name": "M Village Hotel Hồ Gươm",
-    "city": "Hanoi",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,028,596",
-    "price_per_night": 1028596,
-    "rating": "9.3 Exceptional",
-    "review_count_text": "767 reviews",
-    "review_count": 767,
-    "stars": 3,
-    "location": "Hoan Kiem District, Hanoi - 0.1 km to center",
-    "amenities": [
-      "Room sanitizing",
-      "Free Premium Wifi",
-      "+3"
-    ]
-  },
-  {
-    "hotel_name": "Signature by M Village Thợ Nhuộm",
-    "city": "Hanoi",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,488,089",
-    "price_per_night": 1488089,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "1,790 reviews",
-    "review_count": 1790,
-    "stars": 4,
-    "location": "Hoan Kiem District, Hanoi - 0.4 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+6"
-    ]
-  },
-  {
-    "hotel_name": "La Mejor Indochine Hotel",
-    "city": "Hanoi",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 2,899,676",
-    "price_per_night": 2899676,
-    "rating": "9.5 Exceptional",
-    "review_count_text": "644 reviews",
-    "review_count": 644,
-    "stars": 5,
-    "location": "Old Quarter, Hanoi - City center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+7"
-    ]
-  },
-  {
-    "hotel_name": "Apricot Hotel",
-    "city": "Hanoi",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 2,923,292",
-    "price_per_night": 2923292,
-    "rating": "8.9 Excellent",
-    "review_count_text": "2,730 reviews",
-    "review_count": 2730,
-    "stars": 5,
-    "location": "Hoan Kiem District, Hanoi - City center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+6"
-    ]
-  },
-  {
-    "hotel_name": "La Palm Hotel",
-    "city": "Hanoi",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 839,416",
-    "price_per_night": 839416,
-    "rating": "8.4 Excellent",
-    "review_count_text": "5,742 reviews",
-    "review_count": 5742,
-    "stars": 3,
-    "location": "Old Quarter, Hanoi - City center",
-    "amenities": [
-      "Breakfast",
-      "Welcome drink",
-      "Parking",
-      "+3"
-    ]
-  },
-  {
-    "hotel_name": "Hotel du Parc Hanoi",
-    "city": "Hanoi",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 2,275,297",
-    "price_per_night": 2275297,
-    "rating": "8.6 Excellent",
-    "review_count_text": "3,769 reviews",
-    "review_count": 3769,
-    "stars": 5,
-    "location": "Hai Ba Trung District, Hanoi - 1.2 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+6"
-    ]
-  },
-  {
-    "hotel_name": "Movenpick Hotel Hanoi Centre",
-    "city": "Hanoi",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 5,431,424",
-    "price_per_night": 5431424,
-    "rating": "8.4 Excellent",
-    "review_count_text": "1,940 reviews",
-    "review_count": 1940,
-    "stars": 5,
-    "location": "Hoan Kiem District, Hanoi - 0.4 km to center",
-    "amenities": []
-  },
-  {
-    "hotel_name": "Hotel De Rond Hanoi",
-    "city": "Hanoi",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,069,255",
-    "price_per_night": 1069255,
-    "rating": "9.0 Exceptional",
-    "review_count_text": "1,476 reviews",
-    "review_count": 1476,
-    "stars": 4,
-    "location": "Hoan Kiem District, Hanoi - 0.2 km to center",
-    "amenities": [
-      "Breakfast",
-      "Welcome drink",
-      "Parking",
-      "+3"
-    ]
-  },
-  {
-    "hotel_name": "Tru by Hilton Hanoi Station",
-    "city": "Hanoi",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 2,802,500",
-    "price_per_night": 2802500,
-    "rating": "8.3 Excellent",
-    "review_count_text": "526 reviews",
-    "review_count": 526,
-    "stars": 3,
-    "location": "Hoan Kiem District, Hanoi - 0.5 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free WiFi"
-    ]
-  },
-  {
     "hotel_name": "Dolce by Wyndham Hanoi Golden Lake",
     "city": "Hanoi",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,051,710",
-    "price_per_night": 2051710,
+    "price_per_night_text": "₫ 2,232,279",
+    "price_per_night": 2232279,
     "rating": "8.7 Excellent",
     "review_count_text": "2,321 reviews",
     "review_count": 2321,
@@ -648,28 +619,123 @@
     ]
   },
   {
-    "hotel_name": "Aurora Premium - A Lifestyle Hotel",
+    "hotel_name": "Classy Holiday Hotel & Spa",
     "city": "Hanoi",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,503,757",
-    "price_per_night": 1503757,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "4,686 reviews",
-    "review_count": 4686,
+    "price_per_night_text": "₫ 1,098,760",
+    "price_per_night": 1098760,
+    "rating": "8.7 Excellent",
+    "review_count_text": "3,639 reviews",
+    "review_count": 3639,
+    "stars": 4,
+    "location": "Old Quarter, Hanoi - City center",
+    "amenities": []
+  },
+  {
+    "hotel_name": "Moonlit Suites Hotel",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 322,097",
+    "price_per_night": 322097,
+    "rating": "8.9 Excellent",
+    "review_count_text": "463 reviews",
+    "review_count": 463,
+    "stars": 4,
+    "location": "Tay Ho District, Hanoi - 3.8 km to center",
+    "amenities": [
+      "Express check-in",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "M Village Hotel Hồ Gươm",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,020,511",
+    "price_per_night": 1020511,
+    "rating": "9.3 Exceptional",
+    "review_count_text": "768 reviews",
+    "review_count": 768,
+    "stars": 3,
+    "location": "Hoan Kiem District, Hanoi - 0.1 km to center",
+    "amenities": [
+      "Room sanitizing",
+      "Free Premium Wifi",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Wilque Hotel Hanoi",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 643,698",
+    "price_per_night": 643698,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "339 reviews",
+    "review_count": 339,
+    "stars": 4,
+    "location": "Ba Dinh, Hanoi - 0.3 km to center",
+    "amenities": [
+      "Breakfast",
+      "Local breakfast",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Dream Boutique Hotel & Travel & Spa",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 609,018",
+    "price_per_night": 609018,
+    "rating": "8.4 Excellent",
+    "review_count_text": "1,444 reviews",
+    "review_count": 1444,
+    "stars": 4,
+    "location": "Old Quarter, Hanoi - City center",
+    "amenities": [
+      "Breakfast",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "iRest Signature Ba Dinh Lakeside",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 591,981",
+    "price_per_night": 591981,
+    "rating": "9.4 Exceptional",
+    "review_count_text": "248 reviews",
+    "review_count": 248,
+    "stars": 3,
+    "location": "Ba Dinh, Hanoi - 3.2 km to center",
+    "amenities": [
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "AQUARIUS PREMIUM HOTEL",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,000,674",
+    "price_per_night": 1000674,
+    "rating": "9.1 Exceptional",
+    "review_count_text": "920 reviews",
+    "review_count": 920,
     "stars": 4,
     "location": "Old Quarter, Hanoi - City center",
     "amenities": [
       "Breakfast",
       "Welcome drink",
-      "+4"
+      "+2"
     ]
   },
   {
     "hotel_name": "Canvas Danang Beach Hotel",
     "city": "Da Nang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,011,328",
-    "price_per_night": 1011328,
+    "price_per_night_text": "₫ 1,061,280",
+    "price_per_night": 1061280,
     "rating": "8.9 Excellent",
     "review_count_text": "3,632 reviews",
     "review_count": 3632,
@@ -685,8 +751,8 @@
     "hotel_name": "Nesta Hotel Da Nang",
     "city": "Da Nang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,280,890",
-    "price_per_night": 1280890,
+    "price_per_night_text": "₫ 1,421,114",
+    "price_per_night": 1421114,
     "rating": "9.1 Exceptional",
     "review_count_text": "4,915 reviews",
     "review_count": 4915,
@@ -702,8 +768,8 @@
     "hotel_name": "Golden Lotus Grand Da Nang",
     "city": "Da Nang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,567,608",
-    "price_per_night": 1567608,
+    "price_per_night_text": "₫ 1,645,346",
+    "price_per_night": 1645346,
     "rating": "9.3 Exceptional",
     "review_count_text": "7,238 reviews",
     "review_count": 7238,
@@ -719,8 +785,8 @@
     "hotel_name": "Danang Beach Hotel by RAON",
     "city": "Da Nang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 284,635",
-    "price_per_night": 284635,
+    "price_per_night_text": "₫ 274,637",
+    "price_per_night": 274637,
     "rating": "9.5 Exceptional",
     "review_count_text": "193 reviews",
     "review_count": 193,
@@ -734,38 +800,37 @@
     ]
   },
   {
-    "hotel_name": "Mercure Danang French Village Bana Hills",
+    "hotel_name": "Cherry Hotel & Apartment",
     "city": "Da Nang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,572,200",
-    "price_per_night": 2572200,
-    "rating": "8.8 Excellent",
-    "review_count_text": "16,914 reviews",
-    "review_count": 16914,
+    "price_per_night_text": "₫ 299,908",
+    "price_per_night": 299908,
+    "rating": "8.7 Excellent",
+    "review_count_text": "1,359 reviews",
+    "review_count": 1359,
     "stars": 4,
-    "location": "Hoa Ninh, Da Nang - 24.8 km to center",
+    "location": "Phước Mỹ, Da Nang - 2.4 km to center",
     "amenities": [
-      "Breakfast",
-      "Free WiFi",
-      "Parking",
-      "Dinner included"
+      "Free pool access",
+      "Free Premium Wifi",
+      "+3"
     ]
   },
   {
-    "hotel_name": "Muong Thanh Grand Da Nang Hotel",
+    "hotel_name": "Temple Da Nang",
     "city": "Da Nang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 657,748",
-    "price_per_night": 657748,
-    "rating": "8.1 Excellent",
-    "review_count_text": "4,584 reviews",
-    "review_count": 4584,
+    "price_per_night_text": "₫ 717,491",
+    "price_per_night": 717491,
+    "rating": "7.4 Very good",
+    "review_count_text": "1,179 reviews",
+    "review_count": 1179,
     "stars": 4,
-    "location": "Phước Mỹ, Da Nang - 0.8 km to center",
+    "location": "Phước Mỹ, Da Nang - 2.1 km to center",
     "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+4"
+      "Parking",
+      "Express check-in",
+      "Free WiFi"
     ]
   },
   {
@@ -782,20 +847,37 @@
     "amenities": []
   },
   {
-    "hotel_name": "Muong Thanh Luxury Da Nang hotel",
+    "hotel_name": "Muong Thanh Luxury Song Han Hotel",
     "city": "Da Nang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 981,217",
-    "price_per_night": 981217,
-    "rating": "8.6 Excellent",
-    "review_count_text": "7,342 reviews",
-    "review_count": 7342,
+    "price_per_night_text": "₫ 875,000",
+    "price_per_night": 875000,
+    "rating": "8.3 Excellent",
+    "review_count_text": "3,534 reviews",
+    "review_count": 3534,
     "stars": 5,
-    "location": "Phước Mỹ, Da Nang - 2.5 km to center",
+    "location": "Hải Châu, Da Nang - 0.1 km to center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
-      "+3"
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Royal Beach Hotel",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 288,303",
+    "price_per_night": 288303,
+    "rating": "8.7 Excellent",
+    "review_count_text": "3,331 reviews",
+    "review_count": 3331,
+    "stars": 4,
+    "location": "Phước Mỹ, Da Nang - 1.9 km to center",
+    "amenities": [
+      "Parking",
+      "Room sanitizing",
+      "+4"
     ]
   },
   {
@@ -816,64 +898,46 @@
     ]
   },
   {
-    "hotel_name": "Centre Hotel",
+    "hotel_name": "Ocean Haven Hotel",
     "city": "Da Nang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 297,332",
-    "price_per_night": 297332,
-    "rating": "8.1 Excellent",
-    "review_count_text": "18,310 reviews",
-    "review_count": 18310,
+    "price_per_night_text": "₫ 286,926",
+    "price_per_night": 286926,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "919 reviews",
+    "review_count": 919,
     "stars": 3,
-    "location": "Hải Châu, Da Nang - City center",
-    "amenities": [
-      "Parking",
-      "Express check-in",
-      "Free WiFi",
-      "+1"
-    ]
-  },
-  {
-    "hotel_name": "Temple Da Nang",
-    "city": "Da Nang",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 782,277",
-    "price_per_night": 782277,
-    "rating": "7.4 Very good",
-    "review_count_text": "1,179 reviews",
-    "review_count": 1179,
-    "stars": 4,
-    "location": "Phước Mỹ, Da Nang - 2.1 km to center",
+    "location": "Phước Mỹ, Da Nang - 1.9 km to center",
     "amenities": [
       "Breakfast",
-      "Free WiFi",
       "Parking",
-      "Welcome drink"
+      "Car rental",
+      "+7"
     ]
   },
   {
-    "hotel_name": "Muong Thanh Luxury Song Han Hotel",
+    "hotel_name": "Muong Thanh Luxury Da Nang hotel",
     "city": "Da Nang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 875,000",
-    "price_per_night": 875000,
-    "rating": "8.3 Excellent",
-    "review_count_text": "3,534 reviews",
-    "review_count": 3534,
+    "price_per_night_text": "₫ 1,077,105",
+    "price_per_night": 1077105,
+    "rating": "8.6 Excellent",
+    "review_count_text": "7,342 reviews",
+    "review_count": 7342,
     "stars": 5,
-    "location": "Hải Châu, Da Nang - 0.1 km to center",
+    "location": "Phước Mỹ, Da Nang - 2.5 km to center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
-      "+6"
+      "+3"
     ]
   },
   {
     "hotel_name": "Golden Lotus Hotel Da Nang - Rooftop Bar Sea View",
     "city": "Da Nang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 884,616",
-    "price_per_night": 884616,
+    "price_per_night_text": "₫ 978,377",
+    "price_per_night": 978377,
     "rating": "9.3 Exceptional",
     "review_count_text": "3,845 reviews",
     "review_count": 3845,
@@ -887,38 +951,20 @@
     ]
   },
   {
-    "hotel_name": "Everland Hotel",
+    "hotel_name": "Muong Thanh Grand Da Nang Hotel",
     "city": "Da Nang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 500,914",
-    "price_per_night": 500914,
-    "rating": "8.3 Excellent",
-    "review_count_text": "1,751 reviews",
-    "review_count": 1751,
+    "price_per_night_text": "₫ 714,330",
+    "price_per_night": 714330,
+    "rating": "8.1 Excellent",
+    "review_count_text": "4,584 reviews",
+    "review_count": 4584,
     "stars": 4,
-    "location": "An Hai Bac, Da Nang - 1.3 km to center",
-    "amenities": [
-      "Breakfast",
-      "Welcome drink",
-      "Parking",
-      "+3"
-    ]
-  },
-  {
-    "hotel_name": "Sandy Beach Non Nuoc Resort",
-    "city": "Da Nang",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 682,531",
-    "price_per_night": 682531,
-    "rating": "8.0 Excellent",
-    "review_count_text": "4,434 reviews",
-    "review_count": 4434,
-    "stars": 4,
-    "location": "Hòa Hải, Da Nang - 8.7 km to center",
+    "location": "Phước Mỹ, Da Nang - 0.8 km to center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
-      "+2"
+      "+4"
     ]
   },
   {
@@ -935,24 +981,42 @@
     "amenities": [
       "Breakfast",
       "Free fitness center access",
-      "+8"
+      "+9"
     ]
   },
   {
-    "hotel_name": "Stella Maris Beach Danang",
+    "hotel_name": "Sandy Beach Non Nuoc Resort",
     "city": "Da Nang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,137,116",
-    "price_per_night": 1137116,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "7,681 reviews",
-    "review_count": 7681,
+    "price_per_night_text": "₫ 708,989",
+    "price_per_night": 708989,
+    "rating": "8.0 Excellent",
+    "review_count_text": "4,434 reviews",
+    "review_count": 4434,
     "stars": 4,
-    "location": "Phước Mỹ, Da Nang - 2.1 km to center",
+    "location": "Hòa Hải, Da Nang - 8.7 km to center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
-      "+5"
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Pergola Design Hotel",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 390,283",
+    "price_per_night": 390283,
+    "rating": "8.8 Excellent",
+    "review_count_text": "1,120 reviews",
+    "review_count": 1120,
+    "stars": 3,
+    "location": "Phước Mỹ, Da Nang - 2.0 km to center",
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Spa discount",
+      "+6"
     ]
   },
   {
@@ -969,45 +1033,81 @@
     "amenities": []
   },
   {
-    "hotel_name": "Cherry Hotel & Apartment",
+    "hotel_name": "Mangata Beachfront Hotel - Rooftop Bar Sea View",
     "city": "Da Nang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 285,089",
-    "price_per_night": 285089,
-    "rating": "8.7 Excellent",
-    "review_count_text": "1,359 reviews",
-    "review_count": 1359,
+    "price_per_night_text": "₫ 801,730",
+    "price_per_night": 801730,
+    "rating": "8.9 Excellent",
+    "review_count_text": "3,167 reviews",
+    "review_count": 3167,
     "stars": 4,
-    "location": "Phước Mỹ, Da Nang - 2.4 km to center",
-    "amenities": [
-      "Free pool access",
-      "Free Premium Wifi",
-      "+3"
-    ]
-  },
-  {
-    "hotel_name": "Diamond Sea Hotel",
-    "city": "Da Nang",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 895,459",
-    "price_per_night": 895459,
-    "rating": "9.1 Exceptional",
-    "review_count_text": "6,223 reviews",
-    "review_count": 6223,
-    "stars": 4,
-    "location": "Phước Mỹ, Da Nang - 2.1 km to center",
+    "location": "Phước Mỹ, Da Nang - 2.3 km to center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
-      "+8"
+      "+10"
+    ]
+  },
+  {
+    "hotel_name": "Centre Hotel",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 338,218",
+    "price_per_night": 338218,
+    "rating": "8.1 Excellent",
+    "review_count_text": "18,310 reviews",
+    "review_count": 18310,
+    "stars": 3,
+    "location": "Hải Châu, Da Nang - City center",
+    "amenities": [
+      "Parking",
+      "Express check-in",
+      "Free WiFi",
+      "+1"
+    ]
+  },
+  {
+    "hotel_name": "Mercure Danang French Village Bana Hills",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 2,838,600",
+    "price_per_night": 2838600,
+    "rating": "8.8 Excellent",
+    "review_count_text": "16,914 reviews",
+    "review_count": 16914,
+    "stars": 4,
+    "location": "Hoa Ninh, Da Nang - 24.8 km to center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi",
+      "Dinner"
+    ]
+  },
+  {
+    "hotel_name": "Pansy Beach Dana",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 269,084",
+    "price_per_night": 269084,
+    "rating": "8.6 Excellent",
+    "review_count_text": "3,305 reviews",
+    "review_count": 3305,
+    "stars": 4,
+    "location": "Phước Mỹ, Da Nang - 2.5 km to center",
+    "amenities": [
+      "Motorcycle rental",
+      "Spa discount",
+      "+15"
     ]
   },
   {
     "hotel_name": "Nha Trang Palace Hotel",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 486,264",
-    "price_per_night": 486264,
+    "price_per_night_text": "₫ 481,007",
+    "price_per_night": 481007,
     "rating": "8.6 Excellent",
     "review_count_text": "2,985 reviews",
     "review_count": 2985,
@@ -1021,28 +1121,28 @@
     ]
   },
   {
-    "hotel_name": "Havana Nha Trang Hotel",
+    "hotel_name": "Florida Hotel",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,059,089",
-    "price_per_night": 1059089,
-    "rating": "9.0 Exceptional",
-    "review_count_text": "21,643 reviews",
-    "review_count": 21643,
+    "price_per_night_text": "₫ 444,463",
+    "price_per_night": 444463,
+    "rating": "8.4 Excellent",
+    "review_count_text": "1,674 reviews",
+    "review_count": 1674,
     "stars": 5,
-    "location": "Loc Tho, Nha Trang - 0.2 km to center",
+    "location": "Loc Tho, Nha Trang - 0.4 km to center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
-      "+5"
+      "+7"
     ]
   },
   {
     "hotel_name": "Panorama Nha Trang Star Beach",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 576,943",
-    "price_per_night": 576943,
+    "price_per_night_text": "₫ 577,471",
+    "price_per_night": 577471,
     "rating": "8.6 Excellent",
     "review_count_text": "3,996 reviews",
     "review_count": 3996,
@@ -1058,8 +1158,8 @@
     "hotel_name": "Amiana Resort Cam Ranh",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 3,288,445",
-    "price_per_night": 3288445,
+    "price_per_night_text": "₫ 3,213,728",
+    "price_per_night": 3213728,
     "rating": "8.5 Excellent",
     "review_count_text": "743 reviews",
     "review_count": 743,
@@ -1072,17 +1172,34 @@
     ]
   },
   {
-    "hotel_name": "Sata Hotel",
+    "hotel_name": "Mojzo Inn Boutique",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 510,205",
-    "price_per_night": 510205,
-    "rating": "9.0 Exceptional",
-    "review_count_text": "6,349 reviews",
-    "review_count": 6349,
-    "stars": 3,
-    "location": "Tân Lập, Nha Trang - City center",
+    "price_per_night_text": "₫ 511,850",
+    "price_per_night": 511850,
+    "rating": "9.2 Exceptional",
+    "review_count_text": "4,965 reviews",
+    "review_count": 4965,
+    "stars": 2,
+    "location": "Loc Tho, Nha Trang - City center",
     "amenities": []
+  },
+  {
+    "hotel_name": "Muong Thanh Luxury Khanh Hoa",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 814,454",
+    "price_per_night": 814454,
+    "rating": "8.9 Excellent",
+    "review_count_text": "3,123 reviews",
+    "review_count": 3123,
+    "stars": 5,
+    "location": "Xuong Huan, Nha Trang - 1.6 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
   },
   {
     "hotel_name": "Muong Thanh Luxury Nha Trang Hotel",
@@ -1103,38 +1220,20 @@
     ]
   },
   {
-    "hotel_name": "Florida Hotel",
+    "hotel_name": "Havana Nha Trang Hotel",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 444,797",
-    "price_per_night": 444797,
-    "rating": "8.4 Excellent",
-    "review_count_text": "1,674 reviews",
-    "review_count": 1674,
+    "price_per_night_text": "₫ 1,104,404",
+    "price_per_night": 1104404,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "21,643 reviews",
+    "review_count": 21643,
     "stars": 5,
-    "location": "Loc Tho, Nha Trang - 0.4 km to center",
+    "location": "Loc Tho, Nha Trang - 0.2 km to center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
-      "+7"
-    ]
-  },
-  {
-    "hotel_name": "Hon Tam Resort (former name Merperle Hon Tam Resort)",
-    "city": "Nha Trang",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,858,951",
-    "price_per_night": 1858951,
-    "rating": "8.5 Excellent",
-    "review_count_text": "5,287 reviews",
-    "review_count": 5287,
-    "stars": 5,
-    "location": "Hon Tam, Nha Trang - 6.4 km to center",
-    "amenities": [
-      "Breakfast",
-      "Welcome drink",
-      "Late check-out",
-      "+3"
+      "+5"
     ]
   },
   {
@@ -1151,33 +1250,35 @@
     "amenities": [
       "Breakfast",
       "Parking",
-      "Lunch included",
-      "+3"
+      "Lunch",
+      "Free WiFi",
+      "+2"
     ]
   },
   {
-    "hotel_name": "Comodo Nha Trang Hotel",
+    "hotel_name": "Royal HPM Hotel",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 981,238",
-    "price_per_night": 981238,
-    "rating": "8.8 Excellent",
-    "review_count_text": "3,241 reviews",
-    "review_count": 3241,
-    "stars": 5,
-    "location": "Loc Tho, Nha Trang - City center",
+    "price_per_night_text": "₫ 222,556",
+    "price_per_night": 222556,
+    "rating": "7.9 Very good",
+    "review_count_text": "2,137 reviews",
+    "review_count": 2137,
+    "stars": 4,
+    "location": "Tân Lập, Nha Trang - City center",
     "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+6"
+      "Parking",
+      "Free Premium Wifi",
+      "Free WiFi",
+      "+1"
     ]
   },
   {
     "hotel_name": "Ana Mandara Cam Ranh",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 3,288,154",
-    "price_per_night": 3288154,
+    "price_per_night_text": "₫ 3,304,188",
+    "price_per_night": 3304188,
     "rating": "8.8 Excellent",
     "review_count_text": "6,257 reviews",
     "review_count": 6257,
@@ -1196,8 +1297,8 @@
     "price_per_night_text": "₫ 1,277,865",
     "price_per_night": 1277865,
     "rating": "8.9 Excellent",
-    "review_count_text": "4,541 reviews",
-    "review_count": 4541,
+    "review_count_text": "4,549 reviews",
+    "review_count": 4549,
     "stars": 5,
     "location": "Loc Tho, Nha Trang - City center",
     "amenities": [
@@ -1210,11 +1311,11 @@
     "hotel_name": "Holi Panorama Condotel",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 409,080",
-    "price_per_night": 409080,
+    "price_per_night_text": "₫ 424,631",
+    "price_per_night": 424631,
     "rating": "8.1 Excellent",
-    "review_count_text": "5,260 reviews",
-    "review_count": 5260,
+    "review_count_text": "5,261 reviews",
+    "review_count": 5261,
     "stars": 4,
     "location": "Loc Tho, Nha Trang - City center",
     "amenities": [
@@ -1224,11 +1325,46 @@
     ]
   },
   {
+    "hotel_name": "NHA TRang Amazing Beach&City View_Center POOL",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 867,200",
+    "price_per_night": 867200,
+    "rating": "10.0 Exceptional",
+    "review_count_text": "1 reviews",
+    "review_count": 1,
+    "stars": 5,
+    "location": "Loc Tho, Nha Trang - 0.2 km to center",
+    "amenities": [
+      "Airport transfer",
+      "Front desk [24-hour]",
+      "Wi-Fi",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Alana Nha Trang Beach Hotel",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 437,546",
+    "price_per_night": 437546,
+    "rating": "8.7 Excellent",
+    "review_count_text": "1,624 reviews",
+    "review_count": 1624,
+    "stars": 4,
+    "location": "Loc Tho, Nha Trang - City center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
     "hotel_name": "StarCity Nha Trang Hotel",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 671,800",
-    "price_per_night": 671800,
+    "price_per_night_text": "₫ 675,820",
+    "price_per_night": 675820,
     "rating": "8.7 Excellent",
     "review_count_text": "4,262 reviews",
     "review_count": 4262,
@@ -1241,76 +1377,45 @@
     ]
   },
   {
-    "hotel_name": "Sunset view room •5 mins walk to the sea",
+    "hotel_name": "Green Beach Hotel Nha Trang",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 192,095",
-    "price_per_night": 192095,
-    "rating": "",
-    "review_count_text": "",
-    "review_count": null,
-    "stars": 2,
-    "location": "Vinh Hai, Nha Trang - 4.0 km to center",
-    "amenities": [
-      "Wi-Fi"
-    ]
-  },
-  {
-    "hotel_name": "Vinpearl Resort Nha Trang",
-    "city": "Nha Trang",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 2,244,426",
-    "price_per_night": 2244426,
+    "price_per_night_text": "₫ 917,313",
+    "price_per_night": 917313,
     "rating": "8.8 Excellent",
-    "review_count_text": "7,372 reviews",
-    "review_count": 7372,
+    "review_count_text": "753 reviews",
+    "review_count": 753,
     "stars": 5,
-    "location": "Hon Tre, Nha Trang - 4.8 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+8"
-    ]
-  },
-  {
-    "hotel_name": "Mojzo Inn Boutique",
-    "city": "Nha Trang",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 511,850",
-    "price_per_night": 511850,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "4,965 reviews",
-    "review_count": 4965,
-    "stars": 2,
     "location": "Loc Tho, Nha Trang - City center",
     "amenities": []
   },
   {
-    "hotel_name": "Muong Thanh Luxury Khanh Hoa",
+    "hotel_name": "BN Boutique Nha Trang Hotel",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 840,344",
-    "price_per_night": 840344,
-    "rating": "8.9 Excellent",
-    "review_count_text": "3,123 reviews",
-    "review_count": 3123,
-    "stars": 5,
-    "location": "Xuong Huan, Nha Trang - 1.6 km to center",
+    "price_per_night_text": "₫ 294,896",
+    "price_per_night": 294896,
+    "rating": "8.3 Excellent",
+    "review_count_text": "669 reviews",
+    "review_count": 669,
+    "stars": 4,
+    "location": "Loc Tho, Nha Trang - City center",
     "amenities": [
       "Breakfast",
-      "Free fitness center access",
-      "+5"
+      "Local breakfast",
+      "Parking",
+      "+20"
     ]
   },
   {
-    "hotel_name": "Liberty Central Nha Trang Hotel",
+    "hotel_name": "V Hotel Nha Trang",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 715,741",
-    "price_per_night": 715741,
-    "rating": "8.9 Excellent",
-    "review_count_text": "5,673 reviews",
-    "review_count": 5673,
+    "price_per_night_text": "₫ 458,033",
+    "price_per_night": 458033,
+    "rating": "8.7 Excellent",
+    "review_count_text": "3,259 reviews",
+    "review_count": 3259,
     "stars": 4,
     "location": "Loc Tho, Nha Trang - City center",
     "amenities": [
@@ -1320,28 +1425,61 @@
     ]
   },
   {
-    "hotel_name": "Citadines Bayfront Nha Trang",
+    "hotel_name": "Dendro Gold Hotel",
     "city": "Nha Trang",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,170,000",
-    "price_per_night": 1170000,
+    "price_per_night_text": "₫ 417,988",
+    "price_per_night": 417988,
     "rating": "8.9 Excellent",
-    "review_count_text": "4,474 reviews",
-    "review_count": 4474,
-    "stars": 5,
+    "review_count_text": "4,551 reviews",
+    "review_count": 4551,
+    "stars": 4,
     "location": "Loc Tho, Nha Trang - City center",
     "amenities": [
       "Breakfast",
-      "Welcome drink",
+      "Free pool access",
+      "Parking",
+      "+1"
+    ]
+  },
+  {
+    "hotel_name": "Anrizon Hotel Nha Trang",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 273,369",
+    "price_per_night": 273369,
+    "rating": "8.5 Excellent",
+    "review_count_text": "1,734 reviews",
+    "review_count": 1734,
+    "stars": 4,
+    "location": "Vĩnh Phước, Nha Trang - 3.2 km to center",
+    "amenities": [
       "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "NHA TRANG 5*  Ocean Front Suite_High_FREE Pool",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 583,811",
+    "price_per_night": 583811,
+    "rating": "",
+    "review_count_text": "",
+    "review_count": null,
+    "stars": 5,
+    "location": "Loc Tho, Nha Trang - 0.2 km to center",
+    "amenities": [
+      "Airport transfer",
+      "Front desk [24-hour]",
+      "+7"
     ]
   },
   {
     "hotel_name": "The Signature Hoi An",
     "city": "Hoi An",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,723,227",
-    "price_per_night": 1723227,
+    "price_per_night_text": "₫ 1,662,329",
+    "price_per_night": 1662329,
     "rating": "9.2 Exceptional",
     "review_count_text": "1,580 reviews",
     "review_count": 1580,
@@ -1357,8 +1495,8 @@
     "hotel_name": "Grand Sunrise Palace Hoi An",
     "city": "Hoi An",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,797,481",
-    "price_per_night": 1797481,
+    "price_per_night_text": "₫ 1,586,455",
+    "price_per_night": 1586455,
     "rating": "9.7 Exceptional",
     "review_count_text": "7,397 reviews",
     "review_count": 7397,
@@ -1374,8 +1512,8 @@
     "hotel_name": "La Siesta Hoi An Resort & Spa",
     "city": "Hoi An",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,187,186",
-    "price_per_night": 2187186,
+    "price_per_night_text": "₫ 2,776,714",
+    "price_per_night": 2776714,
     "rating": "9.2 Exceptional",
     "review_count_text": "6,179 reviews",
     "review_count": 6179,
@@ -1391,8 +1529,8 @@
     "hotel_name": "Ancient Town Hotel",
     "city": "Hoi An",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 542,167",
-    "price_per_night": 542167,
+    "price_per_night_text": "₫ 558,338",
+    "price_per_night": 558338,
     "rating": "9.4 Exceptional",
     "review_count_text": "252 reviews",
     "review_count": 252,
@@ -1400,35 +1538,17 @@
     "location": "Cẩm Phô, Hoi An - City center",
     "amenities": [
       "Breakfast",
-      "Welcome drink",
-      "Late check-out",
-      "+7"
-    ]
-  },
-  {
-    "hotel_name": "RAON HOI AN VILLA",
-    "city": "Hoi An",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 300,577",
-    "price_per_night": 300577,
-    "rating": "9.6 Exceptional",
-    "review_count_text": "226 reviews",
-    "review_count": 226,
-    "stars": 4,
-    "location": "Cam Thanh, Hoi An - 2.1 km to center",
-    "amenities": [
-      "Breakfast",
-      "Local breakfast",
       "Parking",
-      "+8"
+      "Late check-in",
+      "+7"
     ]
   },
   {
     "hotel_name": "Calla Hotel - 4 minute walk to the Ancient Town",
     "city": "Hoi An",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 428,213",
-    "price_per_night": 428213,
+    "price_per_night_text": "₫ 438,226",
+    "price_per_night": 438226,
     "rating": "9.6 Exceptional",
     "review_count_text": "213 reviews",
     "review_count": 213,
@@ -1439,6 +1559,24 @@
       "Late check-in",
       "Free WiFi",
       "+2"
+    ]
+  },
+  {
+    "hotel_name": "RAON HOI AN VILLA",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 315,488",
+    "price_per_night": 315488,
+    "rating": "9.6 Exceptional",
+    "review_count_text": "226 reviews",
+    "review_count": 226,
+    "stars": 4,
+    "location": "Cam Thanh, Hoi An - 2.1 km to center",
+    "amenities": [
+      "Breakfast",
+      "Local breakfast",
+      "Parking",
+      "+8"
     ]
   },
   {
@@ -1455,11 +1593,29 @@
     "amenities": []
   },
   {
+    "hotel_name": "Serene Riverside Hotel Hoi An",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 599,272",
+    "price_per_night": 599272,
+    "rating": "8.9 Excellent",
+    "review_count_text": "1,218 reviews",
+    "review_count": 1218,
+    "stars": 4,
+    "location": "Thanh Ha, Hoi An - City center",
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+3"
+    ]
+  },
+  {
     "hotel_name": "Hotel Hoi An Front Beach",
     "city": "Hoi An",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 310,783",
-    "price_per_night": 310783,
+    "price_per_night_text": "₫ 329,171",
+    "price_per_night": 329171,
     "rating": "9.2 Exceptional",
     "review_count_text": "353 reviews",
     "review_count": 353,
@@ -1476,8 +1632,8 @@
     "hotel_name": "Reu Boutique Hotel",
     "city": "Hoi An",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,500,212",
-    "price_per_night": 1500212,
+    "price_per_night_text": "₫ 1,499,421",
+    "price_per_night": 1499421,
     "rating": "9.5 Exceptional",
     "review_count_text": "713 reviews",
     "review_count": 713,
@@ -1487,6 +1643,57 @@
       "Breakfast",
       "Free fitness center access",
       "+8"
+    ]
+  },
+  {
+    "hotel_name": "LEGACY HOI AN RESORT",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,065,676",
+    "price_per_night": 1065676,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "2,752 reviews",
+    "review_count": 2752,
+    "stars": 4,
+    "location": "Cam Thanh, Hoi An - 1.3 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Bliss Hoi An Beach Resort & Wellness",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 2,452,841",
+    "price_per_night": 2452841,
+    "rating": "9.1 Exceptional",
+    "review_count_text": "2,443 reviews",
+    "review_count": 2443,
+    "stars": 5,
+    "location": "Thang Binh, Hoi An - 14.4 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+15"
+    ]
+  },
+  {
+    "hotel_name": "RiverTown Hoi An Resort & Spa",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,508,282",
+    "price_per_night": 1508282,
+    "rating": "9.2 Exceptional",
+    "review_count_text": "9,982 reviews",
+    "review_count": 9982,
+    "stars": 5,
+    "location": "Cẩm Phô, Hoi An - City center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+10"
     ]
   },
   {
@@ -1508,97 +1715,11 @@
     ]
   },
   {
-    "hotel_name": "RiverTown Hoi An Resort & Spa",
-    "city": "Hoi An",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,484,922",
-    "price_per_night": 1484922,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "9,982 reviews",
-    "review_count": 9982,
-    "stars": 5,
-    "location": "Cẩm Phô, Hoi An - City center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+10"
-    ]
-  },
-  {
-    "hotel_name": "LEGACY HOI AN RESORT",
-    "city": "Hoi An",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,042,437",
-    "price_per_night": 1042437,
-    "rating": "9.0 Exceptional",
-    "review_count_text": "2,752 reviews",
-    "review_count": 2752,
-    "stars": 4,
-    "location": "Cam Thanh, Hoi An - 1.3 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+6"
-    ]
-  },
-  {
-    "hotel_name": "Bliss Hoi An Beach Resort & Wellness",
-    "city": "Hoi An",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 2,257,344",
-    "price_per_night": 2257344,
-    "rating": "9.1 Exceptional",
-    "review_count_text": "2,443 reviews",
-    "review_count": 2443,
-    "stars": 5,
-    "location": "Thang Binh, Hoi An - 14.4 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+16"
-    ]
-  },
-  {
-    "hotel_name": "Chillax Old Town Villa",
-    "city": "Hoi An",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 730,849",
-    "price_per_night": 730849,
-    "rating": "9.1 Exceptional",
-    "review_count_text": "2,411 reviews",
-    "review_count": 2411,
-    "stars": 4,
-    "location": "Minh An, Hoi An - City center",
-    "amenities": [
-      "Breakfast",
-      "Welcome drink",
-      "+5"
-    ]
-  },
-  {
-    "hotel_name": "Serene Riverside Hotel Hoi An",
-    "city": "Hoi An",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 604,587",
-    "price_per_night": 604587,
-    "rating": "8.9 Excellent",
-    "review_count_text": "1,218 reviews",
-    "review_count": 1218,
-    "stars": 4,
-    "location": "Thanh Ha, Hoi An - City center",
-    "amenities": [
-      "Breakfast",
-      "Welcome drink",
-      "Parking",
-      "+3"
-    ]
-  },
-  {
     "hotel_name": "Nesta Hoian Resort & Spa",
     "city": "Hoi An",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 879,476",
-    "price_per_night": 879476,
+    "price_per_night_text": "₫ 951,610",
+    "price_per_night": 951610,
     "rating": "9.4 Exceptional",
     "review_count_text": "167 reviews",
     "review_count": 167,
@@ -1611,53 +1732,69 @@
     ]
   },
   {
-    "hotel_name": "Vinpearl Resort & Golf Nam Hoi An",
+    "hotel_name": "Silk River Hoi An Hotel & Spa",
     "city": "Hoi An",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,199,074",
-    "price_per_night": 2199074,
-    "rating": "8.7 Excellent",
-    "review_count_text": "2,636 reviews",
-    "review_count": 2636,
-    "stars": 5,
-    "location": "Thang Binh, Hoi An - 12.4 km to center",
+    "price_per_night_text": "₫ 730,086",
+    "price_per_night": 730086,
+    "rating": "9.6 Exceptional",
+    "review_count_text": "1,894 reviews",
+    "review_count": 1894,
+    "stars": 4,
+    "location": "Cam Chau, Hoi An - 0.6 km to center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
-      "+9"
+      "+3"
     ]
   },
   {
-    "hotel_name": "Smart Garden Homestay",
+    "hotel_name": "New World Hoiana Hotel",
     "city": "Hoi An",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 354,432",
-    "price_per_night": 354432,
+    "price_per_night_text": "₫ 2,002,318",
+    "price_per_night": 2002318,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "1,549 reviews",
+    "review_count": 1549,
+    "stars": 5,
+    "location": "Thang Binh, Hoi An - 8.4 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Private 2-bed room at Villa Golden walls Hoi Ana",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,800,154",
+    "price_per_night": 1800154,
     "rating": "",
     "review_count_text": "",
     "review_count": null,
-    "stars": 3,
-    "location": "Cẩm Phô, Hoi An - City center",
+    "stars": 2,
+    "location": "Cam An, Hoi An - 2.6 km to center",
     "amenities": [
-      "Parking",
-      "Free WiFi"
+      "Wi-Fi"
     ]
   },
   {
-    "hotel_name": "Hoi An Historic Hotel",
+    "hotel_name": "Hotel Royal Hoi An - Gallery",
     "city": "Hoi An",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,271,276",
-    "price_per_night": 1271276,
-    "rating": "8.9 Excellent",
-    "review_count_text": "6,648 reviews",
-    "review_count": 6648,
-    "stars": 4,
-    "location": "Son Phong, Hoi An - City center",
+    "price_per_night_text": "₫ 2,135,171",
+    "price_per_night": 2135171,
+    "rating": "9.3 Exceptional",
+    "review_count_text": "702 reviews",
+    "review_count": 702,
+    "stars": 5,
+    "location": "Cẩm Phô, Hoi An - City center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
-      "+7"
+      "+12"
     ]
   },
   {
@@ -1674,11 +1811,61 @@
     "amenities": []
   },
   {
+    "hotel_name": "Hoi An Canal House Riverside by Haviland",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 486,529",
+    "price_per_night": 486529,
+    "rating": "9.1 Exceptional",
+    "review_count_text": "827 reviews",
+    "review_count": 827,
+    "stars": 3,
+    "location": "Cẩm Phô, Hoi An - City center",
+    "amenities": [
+      "Express check-in",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Lantana Boutique Hoi An Hotel",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,207,830",
+    "price_per_night": 1207830,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "3,000 reviews",
+    "review_count": 3000,
+    "stars": 4,
+    "location": "Minh An, Hoi An - City center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+10"
+    ]
+  },
+  {
+    "hotel_name": "Rocks Beach Boutique",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,115,086",
+    "price_per_night": 1115086,
+    "rating": "8.5 Excellent",
+    "review_count_text": "458 reviews",
+    "review_count": 458,
+    "stars": 4,
+    "location": "Ham Ninh, Phu Quoc Island - 11.5 km to center",
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "+5"
+    ]
+  },
+  {
     "hotel_name": "Maris Beach Hotel Phu Quoc",
     "city": "Phu Quoc",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 602,041",
-    "price_per_night": 602041,
+    "price_per_night_text": "₫ 625,105",
+    "price_per_night": 625105,
     "rating": "8.3 Excellent",
     "review_count_text": "1,059 reviews",
     "review_count": 1059,
@@ -1691,28 +1878,11 @@
     ]
   },
   {
-    "hotel_name": "Vinpearl Resort & Spa Phú Quốc",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,832,939",
-    "price_per_night": 1832939,
-    "rating": "8.8 Excellent",
-    "review_count_text": "8,308 reviews",
-    "review_count": 8308,
-    "stars": 5,
-    "location": "Gành Dầu, Phu Quoc Island - 17.6 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+12"
-    ]
-  },
-  {
     "hotel_name": "Seashells Phu Quoc Hotel & Spa",
     "city": "Phu Quoc",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,723,513",
-    "price_per_night": 1723513,
+    "price_per_night_text": "₫ 1,899,173",
+    "price_per_night": 1899173,
     "rating": "9.0 Exceptional",
     "review_count_text": "14,271 reviews",
     "review_count": 14271,
@@ -1721,24 +1891,25 @@
     "amenities": [
       "Breakfast",
       "Free fitness center access",
-      "+9"
+      "+8"
     ]
   },
   {
-    "hotel_name": "Vinholidays Fiesta Phú Quốc",
+    "hotel_name": "Rosie Hillside Seaview Phu Quoc Apartment",
     "city": "Phu Quoc",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 837,054",
-    "price_per_night": 837054,
-    "rating": "8.9 Excellent",
-    "review_count_text": "7,910 reviews",
-    "review_count": 7910,
-    "stars": 4,
-    "location": "Gành Dầu, Phu Quoc Island - 15.7 km to center",
+    "price_per_night_text": "₫ 687,831",
+    "price_per_night": 687831,
+    "rating": "8.8 Excellent",
+    "review_count_text": "717 reviews",
+    "review_count": 717,
+    "stars": 5,
+    "location": "An Thoi, Phu Quoc Island - 19.2 km to center",
     "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+3"
+      "Free pool access",
+      "Parking",
+      "Car rental",
+      "+7"
     ]
   },
   {
@@ -1755,246 +1926,11 @@
     "amenities": []
   },
   {
-    "hotel_name": "Rocks Beach Boutique",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,342,326",
-    "price_per_night": 1342326,
-    "rating": "8.5 Excellent",
-    "review_count_text": "458 reviews",
-    "review_count": 458,
-    "stars": 4,
-    "location": "Ham Ninh, Phu Quoc Island - 11.5 km to center",
-    "amenities": [
-      "Breakfast",
-      "Welcome drink",
-      "+5"
-    ]
-  },
-  {
-    "hotel_name": "An Phu Hotel",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 543,862",
-    "price_per_night": 543862,
-    "rating": "8.8 Excellent",
-    "review_count_text": "3,233 reviews",
-    "review_count": 3233,
-    "stars": 3,
-    "location": "Duong Dong, Phu Quoc Island - City center",
-    "amenities": [
-      "Breakfast",
-      "Parking",
-      "Free WiFi"
-    ]
-  },
-  {
-    "hotel_name": "La Festa Phu Quoc, Curio Collection by Hilton",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 4,500,000",
-    "price_per_night": 4500000,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "2,480 reviews",
-    "review_count": 2480,
-    "stars": 4,
-    "location": "An Thoi, Phu Quoc Island - 19.1 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free Premium Wifi",
-      "+4"
-    ]
-  },
-  {
-    "hotel_name": "La isla Apartments & Villas - Sea View & Fireworks Phu Quoc",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 485,990",
-    "price_per_night": 485990,
-    "rating": "8.2 Excellent",
-    "review_count_text": "411 reviews",
-    "review_count": 411,
-    "stars": 5,
-    "location": "An Thoi, Phu Quoc Island - 19.3 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+3"
-    ]
-  },
-  {
-    "hotel_name": "SOL By Melia Phu Quoc",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 2,104,976",
-    "price_per_night": 2104976,
-    "rating": "8.5 Excellent",
-    "review_count_text": "3,311 reviews",
-    "review_count": 3311,
-    "stars": 5,
-    "location": "Duong To, Phu Quoc Island - 5.8 km to center",
-    "amenities": [
-      "Breakfast",
-      "+6"
-    ]
-  },
-  {
-    "hotel_name": "The Shells Resort & Spa - Phu Quoc",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,707,662",
-    "price_per_night": 1707662,
-    "rating": "8.3 Excellent",
-    "review_count_text": "5,722 reviews",
-    "review_count": 5722,
-    "stars": 5,
-    "location": "Ong Lang, Phu Quoc Island - 2.8 km to center",
-    "amenities": [
-      "Breakfast",
-      "Welcome drink",
-      "Parking",
-      "+2"
-    ]
-  },
-  {
-    "hotel_name": "Rosie Hillside Seaview Phu Quoc Apartment",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 614,673",
-    "price_per_night": 614673,
-    "rating": "8.8 Excellent",
-    "review_count_text": "717 reviews",
-    "review_count": 717,
-    "stars": 5,
-    "location": "An Thoi, Phu Quoc Island - 19.2 km to center",
-    "amenities": [
-      "Free pool access",
-      "Parking",
-      "Car rental",
-      "+7"
-    ]
-  },
-  {
-    "hotel_name": "La La Sky Homestay Phu Quoc",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 247,978",
-    "price_per_night": 247978,
-    "rating": "",
-    "review_count_text": "",
-    "review_count": null,
-    "stars": 1,
-    "location": "Gành Dầu, Phu Quoc Island - 15.8 km to center",
-    "amenities": [
-      "Parking",
-      "Free WiFi"
-    ]
-  },
-  {
-    "hotel_name": "Venice Hotel Phu Quoc - Free Airport Shuttle & Sunset Town Tour",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,535,334",
-    "price_per_night": 1535334,
-    "rating": "9.1 Exceptional",
-    "review_count_text": "480 reviews",
-    "review_count": 480,
-    "stars": 4,
-    "location": "An Thoi, Phu Quoc Island - 19.0 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+10"
-    ]
-  },
-  {
-    "hotel_name": "Kingo Retreat",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 2,341,955",
-    "price_per_night": 2341955,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "1,142 reviews",
-    "review_count": 1142,
-    "stars": 4,
-    "location": "Ong Lang, Phu Quoc Island - 4.6 km to center",
-    "amenities": []
-  },
-  {
-    "hotel_name": "HANZ Lagoon Sunset Hotel",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 546,113",
-    "price_per_night": 546113,
-    "rating": "9.5 Exceptional",
-    "review_count_text": "490 reviews",
-    "review_count": 490,
-    "stars": 4,
-    "location": "An Thoi, Phu Quoc Island - 19.0 km to center",
-    "amenities": [
-      "Welcome drink",
-      "Parking",
-      "Free WiFi"
-    ]
-  },
-  {
-    "hotel_name": "Muong Thanh Luxury Phu Quoc Hotel",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 933,244",
-    "price_per_night": 933244,
-    "rating": "7.9 Very good",
-    "review_count_text": "1,803 reviews",
-    "review_count": 1803,
-    "stars": 4,
-    "location": "Duong To, Phu Quoc Island - 7.3 km to center",
-    "amenities": [
-      "Breakfast",
-      "Welcome drink",
-      "Parking",
-      "+3"
-    ]
-  },
-  {
-    "hotel_name": "Sunset Beach Resort & Spa",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,162,864",
-    "price_per_night": 1162864,
-    "rating": "8.9 Excellent",
-    "review_count_text": "1,926 reviews",
-    "review_count": 1926,
-    "stars": 4,
-    "location": "Duong Dong, Phu Quoc Island - City center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+4"
-    ]
-  },
-  {
-    "hotel_name": "Coral Bay Hotel & Resort Phu Quoc",
-    "city": "Phu Quoc",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 763,005",
-    "price_per_night": 763005,
-    "rating": "8.8 Excellent",
-    "review_count_text": "3,120 reviews",
-    "review_count": 3120,
-    "stars": 3,
-    "location": "Duong Dong, Phu Quoc Island - 0.4 km to center",
-    "amenities": [
-      "Breakfast",
-      "Parking",
-      "Free WiFi"
-    ]
-  },
-  {
     "hotel_name": "Saigon Phu Quoc Resort and Spa",
     "city": "Phu Quoc",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 764,937",
-    "price_per_night": 764937,
+    "price_per_night_text": "₫ 804,659",
+    "price_per_night": 804659,
     "rating": "8.4 Excellent",
     "review_count_text": "3,208 reviews",
     "review_count": 3208,
@@ -2008,16 +1944,33 @@
     ]
   },
   {
-    "hotel_name": "Pistachio Hotel Sapa",
-    "city": "Sapa",
+    "hotel_name": "Vinpearl Resort & Spa Phú Quốc",
+    "city": "Phu Quoc",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,761,758",
-    "price_per_night": 2761758,
-    "rating": "9.3 Exceptional",
-    "review_count_text": "10,705 reviews",
-    "review_count": 10705,
-    "stars": 4,
-    "location": "Sa Pa City Center, Sapa - City center",
+    "price_per_night_text": "₫ 1,812,766",
+    "price_per_night": 1812766,
+    "rating": "8.8 Excellent",
+    "review_count_text": "8,308 reviews",
+    "review_count": 8308,
+    "stars": 5,
+    "location": "Gành Dầu, Phu Quoc Island - 17.6 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+12"
+    ]
+  },
+  {
+    "hotel_name": "La isla Apartments & Villas - Sea View & Fireworks Phu Quoc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 513,555",
+    "price_per_night": 513555,
+    "rating": "8.2 Excellent",
+    "review_count_text": "411 reviews",
+    "review_count": 411,
+    "stars": 5,
+    "location": "An Thoi, Phu Quoc Island - 19.3 km to center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
@@ -2025,52 +1978,67 @@
     ]
   },
   {
-    "hotel_name": "Hotel de la Coupole - MGallery",
-    "city": "Sapa",
+    "hotel_name": "Vinholidays Fiesta Phú Quốc",
+    "city": "Phu Quoc",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 3,037,500",
-    "price_per_night": 3037500,
-    "rating": "9.3 Exceptional",
-    "review_count_text": "4,517 reviews",
-    "review_count": 4517,
-    "stars": 5,
-    "location": "Sa Pa City Center, Sapa - City center",
+    "price_per_night_text": "₫ 828,947",
+    "price_per_night": 828947,
+    "rating": "8.9 Excellent",
+    "review_count_text": "7,910 reviews",
+    "review_count": 7910,
+    "stars": 4,
+    "location": "Gành Dầu, Phu Quoc Island - 15.7 km to center",
     "amenities": [
       "Breakfast",
-      "Parking",
-      "Free WiFi",
-      "+3"
-    ]
-  },
-  {
-    "hotel_name": "A25 Hotel - 29 Thác Bạc - Sapa",
-    "city": "Sapa",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 445,402",
-    "price_per_night": 445402,
-    "rating": "9.4 Exceptional",
-    "review_count_text": "182 reviews",
-    "review_count": 182,
-    "stars": 3,
-    "location": "Sa Pa City Center, Sapa - City center",
-    "amenities": [
-      "Breakfast",
-      "Welcome drink",
-      "Local breakfast",
+      "Free fitness center access",
       "+2"
     ]
   },
   {
-    "hotel_name": "Bamboo Sapa Hotel",
-    "city": "Sapa",
+    "hotel_name": "Coral Bay Hotel & Resort Phu Quoc",
+    "city": "Phu Quoc",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,575,815",
-    "price_per_night": 2575815,
-    "rating": "9.1 Exceptional",
-    "review_count_text": "2,207 reviews",
-    "review_count": 2207,
+    "price_per_night_text": "₫ 763,867",
+    "price_per_night": 763867,
+    "rating": "8.8 Excellent",
+    "review_count_text": "3,120 reviews",
+    "review_count": 3120,
+    "stars": 3,
+    "location": "Duong Dong, Phu Quoc Island - 0.4 km to center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "An Phu Hotel",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 558,684",
+    "price_per_night": 558684,
+    "rating": "8.8 Excellent",
+    "review_count_text": "3,233 reviews",
+    "review_count": 3233,
+    "stars": 3,
+    "location": "Duong Dong, Phu Quoc Island - City center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Sunset Beach Resort & Spa",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,155,173",
+    "price_per_night": 1155173,
+    "rating": "8.9 Excellent",
+    "review_count_text": "1,926 reviews",
+    "review_count": 1926,
     "stars": 4,
-    "location": "Sa Pa City Center, Sapa - City center",
+    "location": "Duong Dong, Phu Quoc Island - City center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
@@ -2078,24 +2046,175 @@
     ]
   },
   {
-    "hotel_name": "Viettrekking Sapa",
-    "city": "Sapa",
+    "hotel_name": "The Signature Retreat & Pool Phu Quoc",
+    "city": "Phu Quoc",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,075,628",
-    "price_per_night": 2075628,
-    "rating": "9.0 Exceptional",
-    "review_count_text": "2,147 reviews",
-    "review_count": 2147,
+    "price_per_night_text": "₫ 371,162",
+    "price_per_night": 371162,
+    "rating": "",
+    "review_count_text": "",
+    "review_count": null,
     "stars": 4,
-    "location": "Sa Pa City Center, Sapa - City center",
+    "location": "Cua Lap, Phu Quoc Island - 2.5 km to center",
+    "amenities": [
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "The Shells Resort & Spa - Phu Quoc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,756,452",
+    "price_per_night": 1756452,
+    "rating": "8.3 Excellent",
+    "review_count_text": "5,726 reviews",
+    "review_count": 5726,
+    "stars": 5,
+    "location": "Ong Lang, Phu Quoc Island - 2.8 km to center",
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Coastal Living Hotel Phu Quoc - Free Cable Car Ticket & Hon Thom Water Park",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,630,999",
+    "price_per_night": 1630999,
+    "rating": "9.5 Exceptional",
+    "review_count_text": "326 reviews",
+    "review_count": 326,
+    "stars": 3,
+    "location": "An Thoi, Phu Quoc Island - 18.9 km to center",
     "amenities": []
+  },
+  {
+    "hotel_name": "HANZ Lagoon Sunset Hotel",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 553,265",
+    "price_per_night": 553265,
+    "rating": "9.5 Exceptional",
+    "review_count_text": "490 reviews",
+    "review_count": 490,
+    "stars": 4,
+    "location": "An Thoi, Phu Quoc Island - 19.0 km to center",
+    "amenities": [
+      "Welcome drink",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Venice Hotel Phu Quoc - Free Airport Shuttle & Sunset Town Tour",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,522,328",
+    "price_per_night": 1522328,
+    "rating": "9.1 Exceptional",
+    "review_count_text": "480 reviews",
+    "review_count": 480,
+    "stars": 4,
+    "location": "An Thoi, Phu Quoc Island - 19.0 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+10"
+    ]
+  },
+  {
+    "hotel_name": "Wyndham Grand Phu Quoc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 2,539,577",
+    "price_per_night": 2539577,
+    "rating": "8.6 Excellent",
+    "review_count_text": "5,178 reviews",
+    "review_count": 5178,
+    "stars": 5,
+    "location": "Gành Dầu, Phu Quoc Island - 16.5 km to center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Muong Thanh Luxury Phu Quoc Hotel",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 977,564",
+    "price_per_night": 977564,
+    "rating": "7.9 Very good",
+    "review_count_text": "1,803 reviews",
+    "review_count": 1803,
+    "stars": 4,
+    "location": "Duong To, Phu Quoc Island - 7.3 km to center",
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Rova Hotel Phú Quốc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 246,872",
+    "price_per_night": 246872,
+    "rating": "9.1 Exceptional",
+    "review_count_text": "421 reviews",
+    "review_count": 421,
+    "stars": 3,
+    "location": "An Thoi, Phu Quoc Island - 18.8 km to center",
+    "amenities": [
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Lovely bungalow in Guest house",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 678,571",
+    "price_per_night": 678571,
+    "rating": "",
+    "review_count_text": "",
+    "review_count": null,
+    "stars": 2,
+    "location": "Duong To, Phu Quoc Island - 13.3 km to center",
+    "amenities": [
+      "Wi-Fi"
+    ]
+  },
+  {
+    "hotel_name": "Tropicana Resort Phu Quoc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 617,229",
+    "price_per_night": 617229,
+    "rating": "8.4 Excellent",
+    "review_count_text": "2,047 reviews",
+    "review_count": 2047,
+    "stars": 3,
+    "location": "Duong Dong, Phu Quoc Island - City center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+8"
+    ]
   },
   {
     "hotel_name": "Sapa Jade Hill Resort & Spa",
     "city": "Sapa",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,520,423",
-    "price_per_night": 1520423,
+    "price_per_night_text": "₫ 1,512,649",
+    "price_per_night": 1512649,
     "rating": "8.8 Excellent",
     "review_count_text": "1,411 reviews",
     "review_count": 1411,
@@ -2112,8 +2231,8 @@
     "hotel_name": "Sapa Heaven House",
     "city": "Sapa",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 383,749",
-    "price_per_night": 383749,
+    "price_per_night_text": "₫ 345,792",
+    "price_per_night": 345792,
     "rating": "8.4 Excellent",
     "review_count_text": "510 reviews",
     "review_count": 510,
@@ -2127,11 +2246,29 @@
     ]
   },
   {
+    "hotel_name": "A25 Hotel - 29 Thác Bạc - Sapa",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 430,719",
+    "price_per_night": 430719,
+    "rating": "9.4 Exceptional",
+    "review_count_text": "182 reviews",
+    "review_count": 182,
+    "stars": 3,
+    "location": "Sa Pa City Center, Sapa - City center",
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Local breakfast",
+      "+2"
+    ]
+  },
+  {
     "hotel_name": "DeLaSol Sapa Hotel",
     "city": "Sapa",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 953,812",
-    "price_per_night": 953812,
+    "price_per_night_text": "₫ 835,539",
+    "price_per_night": 835539,
     "rating": "9.0 Exceptional",
     "review_count_text": "1,595 reviews",
     "review_count": 1595,
@@ -2141,20 +2278,50 @@
       "Breakfast",
       "Welcome drink",
       "Parking",
-      "Free WiFi"
+      "+2"
     ]
   },
   {
-    "hotel_name": "Pao's Sapa Leisure Hotel",
+    "hotel_name": "Pistachio Hotel Sapa",
     "city": "Sapa",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,067,293",
-    "price_per_night": 2067293,
-    "rating": "9.0 Exceptional",
-    "review_count_text": "5,261 reviews",
-    "review_count": 5261,
+    "price_per_night_text": "₫ 3,019,740",
+    "price_per_night": 3019740,
+    "rating": "9.3 Exceptional",
+    "review_count_text": "10,705 reviews",
+    "review_count": 10705,
+    "stars": 4,
+    "location": "Sa Pa City Center, Sapa - City center",
+    "amenities": []
+  },
+  {
+    "hotel_name": "Bamboo Sapa Hotel",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 2,635,034",
+    "price_per_night": 2635034,
+    "rating": "9.1 Exceptional",
+    "review_count_text": "2,207 reviews",
+    "review_count": 2207,
+    "stars": 4,
+    "location": "Sa Pa City Center, Sapa - City center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Hotel de la Coupole - MGallery",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 3,619,800",
+    "price_per_night": 3619800,
+    "rating": "9.3 Exceptional",
+    "review_count_text": "4,518 reviews",
+    "review_count": 4518,
     "stars": 5,
-    "location": "Sa Pa City Center, Sapa - 0.5 km to center",
+    "location": "Sa Pa City Center, Sapa - City center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
@@ -2165,8 +2332,8 @@
     "hotel_name": "Sapa CatCat Hills Resort & Spa",
     "city": "Sapa",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,412,498",
-    "price_per_night": 1412498,
+    "price_per_night_text": "₫ 1,376,548",
+    "price_per_night": 1376548,
     "rating": "9.0 Exceptional",
     "review_count_text": "2,836 reviews",
     "review_count": 2836,
@@ -2179,28 +2346,28 @@
     ]
   },
   {
-    "hotel_name": "KK Sapa Hotel",
+    "hotel_name": "Pao's Sapa Leisure Hotel",
     "city": "Sapa",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,498,306",
-    "price_per_night": 1498306,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "8,342 reviews",
-    "review_count": 8342,
+    "price_per_night_text": "₫ 1,160,688",
+    "price_per_night": 1160688,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "5,268 reviews",
+    "review_count": 5268,
     "stars": 5,
-    "location": "Sa Pa City Center, Sapa - 0.1 km to center",
+    "location": "Sa Pa City Center, Sapa - 0.5 km to center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
-      "+6"
+      "+4"
     ]
   },
   {
     "hotel_name": "Saparis Station Hostel & Travel",
     "city": "Sapa",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 290,210",
-    "price_per_night": 290210,
+    "price_per_night_text": "₫ 242,339",
+    "price_per_night": 242339,
     "rating": "8.5 Excellent",
     "review_count_text": "173 reviews",
     "review_count": 173,
@@ -2213,16 +2380,33 @@
     ]
   },
   {
-    "hotel_name": "Topas Ecolodge",
+    "hotel_name": "KK Sapa Hotel",
     "city": "Sapa",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 6,321,101",
-    "price_per_night": 6321101,
-    "rating": "9.0 Exceptional",
-    "review_count_text": "1,892 reviews",
-    "review_count": 1892,
-    "stars": 3,
-    "location": "Lao Chải Tả Ván, Sapa - 13.7 km to center",
+    "price_per_night_text": "₫ 1,987,019",
+    "price_per_night": 1987019,
+    "rating": "9.2 Exceptional",
+    "review_count_text": "8,342 reviews",
+    "review_count": 8342,
+    "stars": 5,
+    "location": "Sa Pa City Center, Sapa - 0.1 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "S Plus Bungalow",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 754,940",
+    "price_per_night": 754940,
+    "rating": "9.1 Exceptional",
+    "review_count_text": "638 reviews",
+    "review_count": 638,
+    "stars": 5,
+    "location": "Lao Chải Tả Ván, Sapa - 6.1 km to center",
     "amenities": [
       "Breakfast",
       "Welcome drink",
@@ -2231,51 +2415,53 @@
     ]
   },
   {
-    "hotel_name": "Lady Hill Sapa Resort",
+    "hotel_name": "JOVILLE HOTEL SAPA",
     "city": "Sapa",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,319,599",
-    "price_per_night": 2319599,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "1,847 reviews",
-    "review_count": 1847,
-    "stars": 5,
-    "location": "Sa Pa City Center, Sapa - 1.3 km to center",
+    "price_per_night_text": "₫ 656,706",
+    "price_per_night": 656706,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "517 reviews",
+    "review_count": 517,
+    "stars": 4,
+    "location": "Sa Pa City Center, Sapa - City center",
     "amenities": [
       "Breakfast",
-      "Free fitness center access",
-      "+5"
+      "Welcome drink",
+      "Parking",
+      "Free WiFi"
     ]
   },
   {
-    "hotel_name": "Sapa Horizon Hotel",
+    "hotel_name": "Lá Đỏ 2 Homestay & Coffee",
     "city": "Sapa",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 3,252,925",
-    "price_per_night": 3252925,
-    "rating": "9.4 Exceptional",
-    "review_count_text": "3,016 reviews",
-    "review_count": 3016,
+    "price_per_night_text": "₫ 1,334,773",
+    "price_per_night": 1334773,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "631 reviews",
+    "review_count": 631,
+    "stars": 5,
+    "location": "Sa Pa City Center, Sapa - City center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Car rental",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Viettrekking Sapa",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 2,074,533",
+    "price_per_night": 2074533,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "2,148 reviews",
+    "review_count": 2148,
     "stars": 4,
     "location": "Sa Pa City Center, Sapa - City center",
     "amenities": []
-  },
-  {
-    "hotel_name": "Azure Sapa Hotel",
-    "city": "Sapa",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 631,059",
-    "price_per_night": 631059,
-    "rating": "8.7 Excellent",
-    "review_count_text": "860 reviews",
-    "review_count": 860,
-    "stars": 4,
-    "location": "Sa Pa City Center, Sapa - City center",
-    "amenities": [
-      "Breakfast",
-      "Express check-in",
-      "Free WiFi"
-    ]
   },
   {
     "hotel_name": "My Boutique Hotel & Spa",
@@ -2296,11 +2482,27 @@
     ]
   },
   {
+    "hotel_name": "Sapa Harmony Homestay",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 216,822",
+    "price_per_night": 216822,
+    "rating": "9.4 Exceptional",
+    "review_count_text": "305 reviews",
+    "review_count": 305,
+    "stars": 4,
+    "location": "Sa Pa City Center, Sapa - City center",
+    "amenities": [
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
     "hotel_name": "Sapa Center View Hotel",
     "city": "Sapa",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 263,656",
-    "price_per_night": 263656,
+    "price_per_night_text": "₫ 256,816",
+    "price_per_night": 256816,
     "rating": "7.9 Very good",
     "review_count_text": "702 reviews",
     "review_count": 702,
@@ -2313,38 +2515,73 @@
     ]
   },
   {
-    "hotel_name": "Silk Path Grand Sapa Resort & Spa",
+    "hotel_name": "Chau Long Sapa II Hotel",
     "city": "Sapa",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,538,324",
-    "price_per_night": 2538324,
-    "rating": "9.3 Exceptional",
-    "review_count_text": "3,941 reviews",
-    "review_count": 3941,
-    "stars": 5,
-    "location": "Sa Pa City Center, Sapa - 29 m to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+3"
-    ]
-  },
-  {
-    "hotel_name": "JOVILLE HOTEL SAPA",
-    "city": "Sapa",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 727,243",
-    "price_per_night": 727243,
-    "rating": "9.0 Exceptional",
-    "review_count_text": "515 reviews",
-    "review_count": 515,
+    "price_per_night_text": "₫ 951,855",
+    "price_per_night": 951855,
+    "rating": "8.7 Excellent",
+    "review_count_text": "1,291 reviews",
+    "review_count": 1291,
     "stars": 4,
     "location": "Sa Pa City Center, Sapa - City center",
     "amenities": [
       "Breakfast",
-      "Welcome drink",
       "Parking",
-      "Free WiFi"
+      "Express check-in",
+      "+1"
+    ]
+  },
+  {
+    "hotel_name": "Lady Hill Sapa Resort",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 2,173,721",
+    "price_per_night": 2173721,
+    "rating": "9.2 Exceptional",
+    "review_count_text": "1,847 reviews",
+    "review_count": 1847,
+    "stars": 5,
+    "location": "Sa Pa City Center, Sapa - 1.3 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "The Mong Village Resort & Spa",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,925,641",
+    "price_per_night": 1925641,
+    "rating": "8.4 Excellent",
+    "review_count_text": "409 reviews",
+    "review_count": 409,
+    "stars": 4,
+    "location": "Lao Chải Tả Ván, Sapa - 1.9 km to center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Express check-in"
+    ]
+  },
+  {
+    "hotel_name": "HOTEL DE SAPA",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 700,000",
+    "price_per_night": 700000,
+    "rating": "8.8 Excellent",
+    "review_count_text": "921 reviews",
+    "review_count": 921,
+    "stars": 4,
+    "location": "Sa Pa City Center, Sapa - City center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Express check-in",
+      "+1"
     ]
   },
   {
@@ -2361,7 +2598,7 @@
     "amenities": [
       "Breakfast",
       "Welcome drink",
-      "Lunch included",
+      "Lunch",
       "+6"
     ]
   },
@@ -2378,16 +2615,18 @@
     "location": "Tien Thanh, Phan Thiet - 19.1 km to center",
     "amenities": [
       "Breakfast",
-      "Lunch included",
-      "+3"
+      "Lunch",
+      "Free WiFi",
+      "Dinner",
+      "+1"
     ]
   },
   {
     "hotel_name": "Sea Lion Beach Resort Mui Ne",
     "city": "Phan Thiet",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 954,992",
-    "price_per_night": 954992,
+    "price_per_night_text": "₫ 967,961",
+    "price_per_night": 967961,
     "rating": "8.1 Excellent",
     "review_count_text": "813 reviews",
     "review_count": 813,
@@ -2400,74 +2639,60 @@
     ]
   },
   {
-    "hotel_name": "The Clay Resort",
+    "hotel_name": "Amana Hotel Phan Thiet",
     "city": "Phan Thiet",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,138,324",
-    "price_per_night": 1138324,
-    "rating": "8.8 Excellent",
-    "review_count_text": "1,848 reviews",
-    "review_count": 1848,
+    "price_per_night_text": "₫ 712,842",
+    "price_per_night": 712842,
+    "rating": "9.2 Exceptional",
+    "review_count_text": "209 reviews",
+    "review_count": 209,
     "stars": 3,
-    "location": "Mui Ne, Phan Thiet - City center",
+    "location": "Phú Thủy, Phan Thiet - 7.7 km to center",
     "amenities": [
-      "Breakfast"
+      "Breakfast",
+      "Parking",
+      "Lunch",
+      "Free WiFi"
     ]
-  },
-  {
-    "hotel_name": "The Vista Beach Resort & Spa",
-    "city": "Phan Thiet",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,583,157",
-    "price_per_night": 1583157,
-    "rating": "8.5 Excellent",
-    "review_count_text": "183 reviews",
-    "review_count": 183,
-    "stars": 4,
-    "location": "Tien Thanh, Phan Thiet - 24.5 km to center",
-    "amenities": []
   },
   {
     "hotel_name": "RUBENS BOUTIQUE HOTEL",
     "city": "Phan Thiet",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 691,674",
-    "price_per_night": 691674,
+    "price_per_night_text": "₫ 990,014",
+    "price_per_night": 990014,
     "rating": "9.3 Exceptional",
-    "review_count_text": "2,233 reviews",
-    "review_count": 2233,
+    "review_count_text": "2,235 reviews",
+    "review_count": 2235,
     "stars": 3,
     "location": "Phú Thủy, Phan Thiet - 7.6 km to center",
-    "amenities": [
-      "Breakfast",
-      "Welcome drink",
-      "Parking",
-      "Free WiFi"
-    ]
+    "amenities": []
   },
   {
-    "hotel_name": "Meraki Oasis Hotel",
+    "hotel_name": "Lotus Village Resort - Muine",
     "city": "Phan Thiet",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 687,003",
-    "price_per_night": 687003,
-    "rating": "8.6 Excellent",
-    "review_count_text": "4,134 reviews",
-    "review_count": 4134,
-    "stars": 2,
+    "price_per_night_text": "₫ 1,042,847",
+    "price_per_night": 1042847,
+    "rating": "8.3 Excellent",
+    "review_count_text": "5,487 reviews",
+    "review_count": 5487,
+    "stars": 3,
     "location": "Mui Ne, Phan Thiet - City center",
     "amenities": [
       "Breakfast",
       "Parking",
-      "Free WiFi"
+      "Express check-in",
+      "+1"
     ]
   },
   {
     "hotel_name": "The Cliff Resort and Residences",
     "city": "Phan Thiet",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,399,551",
-    "price_per_night": 1399551,
+    "price_per_night_text": "₫ 1,429,593",
+    "price_per_night": 1429593,
     "rating": "9.0 Exceptional",
     "review_count_text": "6,557 reviews",
     "review_count": 6557,
@@ -2480,28 +2705,11 @@
     ]
   },
   {
-    "hotel_name": "The Anam Mui Ne",
-    "city": "Phan Thiet",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 3,769,042",
-    "price_per_night": 3769042,
-    "rating": "9.3 Exceptional",
-    "review_count_text": "3,221 reviews",
-    "review_count": 3221,
-    "stars": 5,
-    "location": "Mui Ne, Phan Thiet - City center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+6"
-    ]
-  },
-  {
     "hotel_name": "Muong Thanh Holiday Mui Ne Hotel",
     "city": "Phan Thiet",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 817,073",
-    "price_per_night": 817073,
+    "price_per_night_text": "₫ 803,835",
+    "price_per_night": 803835,
     "rating": "8.0 Excellent",
     "review_count_text": "4,713 reviews",
     "review_count": 4713,
@@ -2514,11 +2722,43 @@
     ]
   },
   {
+    "hotel_name": "The Clay Resort",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,138,540",
+    "price_per_night": 1138540,
+    "rating": "8.8 Excellent",
+    "review_count_text": "1,848 reviews",
+    "review_count": 1848,
+    "stars": 3,
+    "location": "Mui Ne, Phan Thiet - City center",
+    "amenities": [
+      "Breakfast"
+    ]
+  },
+  {
+    "hotel_name": "Meraki Oasis Hotel",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 671,707",
+    "price_per_night": 671707,
+    "rating": "8.6 Excellent",
+    "review_count_text": "4,137 reviews",
+    "review_count": 4137,
+    "stars": 2,
+    "location": "Mui Ne, Phan Thiet - City center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
     "hotel_name": "DU PARC RESORT MUI NE",
     "city": "Phan Thiet",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 967,762",
-    "price_per_night": 967762,
+    "price_per_night_text": "₫ 937,990",
+    "price_per_night": 937990,
     "rating": "8.7 Excellent",
     "review_count_text": "283 reviews",
     "review_count": 283,
@@ -2535,8 +2775,8 @@
     "hotel_name": "Pandora Sand Hill Mũi Né Resort",
     "city": "Phan Thiet",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 994,433",
-    "price_per_night": 994433,
+    "price_per_night_text": "₫ 966,123",
+    "price_per_night": 966123,
     "rating": "9.0 Exceptional",
     "review_count_text": "285 reviews",
     "review_count": 285,
@@ -2553,8 +2793,8 @@
     "hotel_name": "Perolas Villas Resort - Ke Ga Bay",
     "city": "Phan Thiet",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,202,966",
-    "price_per_night": 1202966,
+    "price_per_night_text": "₫ 1,202,034",
+    "price_per_night": 1202034,
     "rating": "8.8 Excellent",
     "review_count_text": "267 reviews",
     "review_count": 267,
@@ -2567,93 +2807,11 @@
     ]
   },
   {
-    "hotel_name": "Lotus Village Resort - Muine",
-    "city": "Phan Thiet",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,062,073",
-    "price_per_night": 1062073,
-    "rating": "8.3 Excellent",
-    "review_count_text": "5,487 reviews",
-    "review_count": 5487,
-    "stars": 3,
-    "location": "Mui Ne, Phan Thiet - City center",
-    "amenities": [
-      "Breakfast",
-      "Parking",
-      "Express check-in",
-      "+1"
-    ]
-  },
-  {
-    "hotel_name": "Amana Hotel Phan Thiet",
-    "city": "Phan Thiet",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 700,435",
-    "price_per_night": 700435,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "209 reviews",
-    "review_count": 209,
-    "stars": 3,
-    "location": "Phú Thủy, Phan Thiet - 7.7 km to center",
-    "amenities": [
-      "Breakfast",
-      "Parking",
-      "Lunch included",
-      "Free WiFi"
-    ]
-  },
-  {
-    "hotel_name": "Kihu Home Phan Thiết",
-    "city": "Phan Thiet",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 4,259,185",
-    "price_per_night": 4259185,
-    "rating": "",
-    "review_count_text": "",
-    "review_count": null,
-    "stars": 2,
-    "location": "Tien Thanh, Phan Thiet - 21.7 km to center",
-    "amenities": [
-      "Wi-Fi"
-    ]
-  },
-  {
-    "hotel_name": "Sunsea Resort",
-    "city": "Phan Thiet",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,553,470",
-    "price_per_night": 1553470,
-    "rating": "8.9 Excellent",
-    "review_count_text": "983 reviews",
-    "review_count": 983,
-    "stars": 3,
-    "location": "Mui Ne, Phan Thiet - City center",
-    "amenities": [
-      "Breakfast",
-      "Welcome drink",
-      "Parking",
-      "+2"
-    ]
-  },
-  {
-    "hotel_name": "Coco Cottage Beachfront Resort",
-    "city": "Phan Thiet",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 2,335,550",
-    "price_per_night": 2335550,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "187 reviews",
-    "review_count": 187,
-    "stars": 4,
-    "location": "Mui Ne, Phan Thiet - City center",
-    "amenities": []
-  },
-  {
     "hotel_name": "Vipol Mui Ne Hotel & Spa",
     "city": "Phan Thiet",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,028,935",
-    "price_per_night": 1028935,
+    "price_per_night_text": "₫ 1,029,006",
+    "price_per_night": 1029006,
     "rating": "9.1 Exceptional",
     "review_count_text": "2,456 reviews",
     "review_count": 2456,
@@ -2666,21 +2824,153 @@
     ]
   },
   {
-    "hotel_name": "Movenpick Resort Phan Thiet",
+    "hotel_name": "The Anam Mui Ne",
     "city": "Phan Thiet",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,966,086",
-    "price_per_night": 1966086,
-    "rating": "8.7 Excellent",
-    "review_count_text": "3,798 reviews",
-    "review_count": 3798,
+    "price_per_night_text": "₫ 3,853,703",
+    "price_per_night": 3853703,
+    "rating": "9.3 Exceptional",
+    "review_count_text": "3,221 reviews",
+    "review_count": 3221,
     "stars": 5,
-    "location": "Tien Thanh, Phan Thiet - 18.2 km to center",
+    "location": "Mui Ne, Phan Thiet - City center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Kihu Home Phan Thiết",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 4,217,579",
+    "price_per_night": 4217579,
+    "rating": "",
+    "review_count_text": "",
+    "review_count": null,
+    "stars": 2,
+    "location": "Tien Thanh, Phan Thiet - 21.7 km to center",
+    "amenities": [
+      "Wi-Fi"
+    ]
+  },
+  {
+    "hotel_name": "Le' VIVA Resort Mũi Né",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 979,287",
+    "price_per_night": 979287,
+    "rating": "8.6 Excellent",
+    "review_count_text": "2,024 reviews",
+    "review_count": 2024,
+    "stars": 4,
+    "location": "Mui Ne, Phan Thiet - 0.2 km to center",
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Late check-out",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Coco Cottage Beachfront Resort",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 2,334,318",
+    "price_per_night": 2334318,
+    "rating": "9.2 Exceptional",
+    "review_count_text": "187 reviews",
+    "review_count": 187,
+    "stars": 4,
+    "location": "Mui Ne, Phan Thiet - City center",
+    "amenities": []
+  },
+  {
+    "hotel_name": "Victoria Phan Thiet Beach Resort and Spa",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,326,722",
+    "price_per_night": 1326722,
+    "rating": "8.7 Excellent",
+    "review_count_text": "2,126 reviews",
+    "review_count": 2126,
+    "stars": 4,
+    "location": "Phu Hai, Phan Thiet - 1.4 km to center",
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Phu Hai Beach Resort & Spa Phan Thiet",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 968,230",
+    "price_per_night": 968230,
+    "rating": "8.7 Excellent",
+    "review_count_text": "2,041 reviews",
+    "review_count": 2041,
+    "stars": 4,
+    "location": "Phu Hai, Phan Thiet - 2.2 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Mandala Cham Bay Hotel & Resort",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 464,727",
+    "price_per_night": 464727,
+    "rating": "7.7 Very good",
+    "review_count_text": "283 reviews",
+    "review_count": 283,
+    "stars": 5,
+    "location": "Mui Ne, Phan Thiet - 11.7 km to center",
     "amenities": [
       "Breakfast",
       "Parking",
-      "Lunch included",
-      "+5"
+      "Motorcycle rental",
+      "+17"
+    ]
+  },
+  {
+    "hotel_name": "Sailing Club Resort Mui Ne",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 3,088,896",
+    "price_per_night": 3088896,
+    "rating": "9.1 Exceptional",
+    "review_count_text": "1,733 reviews",
+    "review_count": 1733,
+    "stars": 4,
+    "location": "Mui Ne, Phan Thiet - City center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Terracotta Hotel and Resort Dalat",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,553,474",
+    "price_per_night": 1553474,
+    "rating": "8.7 Excellent",
+    "review_count_text": "8,362 reviews",
+    "review_count": 8362,
+    "stars": 4,
+    "location": "Tuyen Lam Lake, Dalat - 4.9 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
     ]
   },
   {
@@ -2700,28 +2990,11 @@
     ]
   },
   {
-    "hotel_name": "MerPerle Dalat Hotel",
-    "city": "Dalat",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,586,971",
-    "price_per_night": 1586971,
-    "rating": "8.9 Excellent",
-    "review_count_text": "1,980 reviews",
-    "review_count": 1980,
-    "stars": 5,
-    "location": "Old Train Station, Dalat - 1.7 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+4"
-    ]
-  },
-  {
     "hotel_name": "La Fleur Premium Central Apartment Hotel",
     "city": "Dalat",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 797,884",
-    "price_per_night": 797884,
+    "price_per_night_text": "₫ 819,568",
+    "price_per_night": 819568,
     "rating": "9.2 Exceptional",
     "review_count_text": "2,241 reviews",
     "review_count": 2241,
@@ -2734,62 +3007,11 @@
     ]
   },
   {
-    "hotel_name": "Terracotta Hotel and Resort Dalat",
-    "city": "Dalat",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,367,803",
-    "price_per_night": 1367803,
-    "rating": "8.7 Excellent",
-    "review_count_text": "8,362 reviews",
-    "review_count": 8362,
-    "stars": 4,
-    "location": "Tuyen Lam Lake, Dalat - 4.9 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+4"
-    ]
-  },
-  {
-    "hotel_name": "Goldient Boutique Hotel",
-    "city": "Dalat",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 989,281",
-    "price_per_night": 989281,
-    "rating": "9.1 Exceptional",
-    "review_count_text": "2,144 reviews",
-    "review_count": 2144,
-    "stars": 4,
-    "location": "Dalat City Center, Dalat - 1.6 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+8"
-    ]
-  },
-  {
-    "hotel_name": "Swiss-Belresort Tuyen Lam Dalat",
-    "city": "Dalat",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 831,944",
-    "price_per_night": 831944,
-    "rating": "8.7 Excellent",
-    "review_count_text": "4,404 reviews",
-    "review_count": 4404,
-    "stars": 4,
-    "location": "Tuyen Lam Lake, Dalat - 6.5 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+6"
-    ]
-  },
-  {
     "hotel_name": "Mùa Dalat Wellness Hotel",
     "city": "Dalat",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,074,565",
-    "price_per_night": 1074565,
+    "price_per_night_text": "₫ 1,108,378",
+    "price_per_night": 1108378,
     "rating": "9.2 Exceptional",
     "review_count_text": "568 reviews",
     "review_count": 568,
@@ -2802,29 +3024,42 @@
     ]
   },
   {
-    "hotel_name": "Ana Mandara Villas Dalat Resort & Spa",
+    "hotel_name": "Túi Ba Gang Central Hotel",
     "city": "Dalat",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,163,030",
-    "price_per_night": 2163030,
-    "rating": "8.9 Excellent",
-    "review_count_text": "4,861 reviews",
-    "review_count": 4861,
-    "stars": 5,
-    "location": "Dalat City Center, Dalat - 0.5 km to center",
+    "price_per_night_text": "₫ 1,223,644",
+    "price_per_night": 1223644,
+    "rating": "8.8 Excellent",
+    "review_count_text": "384 reviews",
+    "review_count": 384,
+    "stars": 4,
+    "location": "Dalat City Center, Dalat - City center",
+    "amenities": []
+  },
+  {
+    "hotel_name": "Mơ Stay - Forest Resort",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 2,264,701",
+    "price_per_night": 2264701,
+    "rating": "9.4 Exceptional",
+    "review_count_text": "533 reviews",
+    "review_count": 533,
+    "stars": 4,
+    "location": "Tuyen Lam Lake, Dalat - 6.4 km to center",
     "amenities": [
       "Breakfast",
+      "Welcome drink",
       "Parking",
-      "Free WiFi",
-      "+1"
+      "Free WiFi"
     ]
   },
   {
     "hotel_name": "Colline Dalat",
     "city": "Dalat",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,310,227",
-    "price_per_night": 1310227,
+    "price_per_night_text": "₫ 1,421,689",
+    "price_per_night": 1421689,
     "rating": "8.7 Excellent",
     "review_count_text": "5,633 reviews",
     "review_count": 5633,
@@ -2838,27 +3073,81 @@
     ]
   },
   {
-    "hotel_name": "Mercure Dalat Resort",
+    "hotel_name": "Swiss-Belresort Tuyen Lam Dalat",
     "city": "Dalat",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,853,000",
-    "price_per_night": 2853000,
-    "rating": "8.8 Excellent",
-    "review_count_text": "2,061 reviews",
-    "review_count": 2061,
+    "price_per_night_text": "₫ 874,858",
+    "price_per_night": 874858,
+    "rating": "8.7 Excellent",
+    "review_count_text": "4,404 reviews",
+    "review_count": 4404,
     "stars": 4,
-    "location": "Old Train Station, Dalat - 1.7 km to center",
+    "location": "Tuyen Lam Lake, Dalat - 6.5 km to center",
     "amenities": [
       "Breakfast",
-      "Free WiFi"
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Le House Dalat",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 808,935",
+    "price_per_night": 808935,
+    "rating": "9.2 Exceptional",
+    "review_count_text": "1,111 reviews",
+    "review_count": 1111,
+    "stars": 4,
+    "location": "Dalat City Center, Dalat - City center",
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Dalat Edensee Lake Resort & Spa",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,262,021",
+    "price_per_night": 1262021,
+    "rating": "8.5 Excellent",
+    "review_count_text": "2,400 reviews",
+    "review_count": 2400,
+    "stars": 5,
+    "location": "Tuyen Lam Lake, Dalat - 5.3 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Le Recit Boutique Hotel de Dalat",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,088,809",
+    "price_per_night": 1088809,
+    "rating": "8.9 Excellent",
+    "review_count_text": "2,924 reviews",
+    "review_count": 2924,
+    "stars": 4,
+    "location": "Dalat City Center, Dalat - City center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free Premium Wifi",
+      "+2"
     ]
   },
   {
     "hotel_name": "The Western Hill Hotel",
     "city": "Dalat",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 775,324",
-    "price_per_night": 775324,
+    "price_per_night_text": "₫ 777,690",
+    "price_per_night": 777690,
     "rating": "7.9 Very good",
     "review_count_text": "2,663 reviews",
     "review_count": 2663,
@@ -2875,8 +3164,8 @@
     "hotel_name": "Artis Hotel Dalat",
     "city": "Dalat",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 684,021",
-    "price_per_night": 684021,
+    "price_per_night_text": "₫ 690,759",
+    "price_per_night": 690759,
     "rating": "9.1 Exceptional",
     "review_count_text": "2,154 reviews",
     "review_count": 2154,
@@ -2893,8 +3182,8 @@
     "hotel_name": "Homestay Gấu",
     "city": "Dalat",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,053,598",
-    "price_per_night": 1053598,
+    "price_per_night_text": "₫ 1,062,463",
+    "price_per_night": 1062463,
     "rating": "",
     "review_count_text": "",
     "review_count": null,
@@ -2905,90 +3194,62 @@
     ]
   },
   {
-    "hotel_name": "Olagi Hotel 2",
+    "hotel_name": "MerPerle Dalat Hotel",
     "city": "Dalat",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 202,315",
-    "price_per_night": 202315,
+    "price_per_night_text": "₫ 1,588,251",
+    "price_per_night": 1588251,
     "rating": "8.9 Excellent",
-    "review_count_text": "96 reviews",
-    "review_count": 96,
-    "stars": 3,
-    "location": "Xuan Huong Lake, Dalat - 1.4 km to center",
-    "amenities": [
-      "Free WiFi"
-    ]
-  },
-  {
-    "hotel_name": "Huyen 179 Hotel",
-    "city": "Dalat",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 498,153",
-    "price_per_night": 498153,
-    "rating": "9.1 Exceptional",
-    "review_count_text": "1,251 reviews",
-    "review_count": 1251,
-    "stars": 2,
-    "location": "Dalat City Center, Dalat - City center",
-    "amenities": []
-  },
-  {
-    "hotel_name": "Le Recit Boutique Hotel de Dalat",
-    "city": "Dalat",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,131,658",
-    "price_per_night": 1131658,
-    "rating": "8.9 Excellent",
-    "review_count_text": "2,924 reviews",
-    "review_count": 2924,
-    "stars": 4,
-    "location": "Dalat City Center, Dalat - City center",
-    "amenities": [
-      "Breakfast",
-      "Parking",
-      "Free Premium Wifi",
-      "+2"
-    ]
-  },
-  {
-    "hotel_name": "Dalat Palace Heritage Hotel",
-    "city": "Dalat",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 2,295,948",
-    "price_per_night": 2295948,
-    "rating": "8.8 Excellent",
-    "review_count_text": "1,749 reviews",
-    "review_count": 1749,
+    "review_count_text": "1,980 reviews",
+    "review_count": 1980,
     "stars": 5,
-    "location": "Dalat City Center, Dalat - 0.4 km to center",
+    "location": "Old Train Station, Dalat - 1.7 km to center",
     "amenities": [
       "Breakfast",
-      "Welcome drink",
-      "Parking",
-      "+3"
+      "Free fitness center access",
+      "+4"
     ]
   },
   {
-    "hotel_name": "Michelia Valley Hotel",
+    "hotel_name": "Golden Imperial Hotel",
     "city": "Dalat",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 158,056",
-    "price_per_night": 158056,
-    "rating": "9.0 Exceptional",
-    "review_count_text": "118 reviews",
-    "review_count": 118,
-    "stars": 2,
-    "location": "Tuyen Lam Lake, Dalat - 1.9 km to center",
+    "price_per_night_text": "₫ 1,977,344",
+    "price_per_night": 1977344,
+    "rating": "9.2 Exceptional",
+    "review_count_text": "734 reviews",
+    "review_count": 734,
+    "stars": 5,
+    "location": "Xuan Huong Lake, Dalat - 0.7 km to center",
     "amenities": [
+      "Breakfast",
+      "Parking",
       "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Goldient Boutique Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,044,233",
+    "price_per_night": 1044233,
+    "rating": "9.1 Exceptional",
+    "review_count_text": "2,144 reviews",
+    "review_count": 2144,
+    "stars": 4,
+    "location": "Dalat City Center, Dalat - 1.6 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+8"
     ]
   },
   {
     "hotel_name": "New Life Hotel Dalat",
     "city": "Dalat",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 606,196",
-    "price_per_night": 606196,
+    "price_per_night_text": "₫ 616,307",
+    "price_per_night": 616307,
     "rating": "8.6 Excellent",
     "review_count_text": "2,424 reviews",
     "review_count": 2424,
@@ -3002,28 +3263,81 @@
     ]
   },
   {
-    "hotel_name": "Dalat Edensee Lake Resort & Spa",
+    "hotel_name": "Brick House Dalat Hotel",
     "city": "Dalat",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,146,798",
-    "price_per_night": 1146798,
-    "rating": "8.5 Excellent",
-    "review_count_text": "2,400 reviews",
-    "review_count": 2400,
-    "stars": 5,
-    "location": "Tuyen Lam Lake, Dalat - 5.3 km to center",
+    "price_per_night_text": "₫ 533,177",
+    "price_per_night": 533177,
+    "rating": "8.9 Excellent",
+    "review_count_text": "2,225 reviews",
+    "review_count": 2225,
+    "stars": 3,
+    "location": "Dalat City Center, Dalat - 0.8 km to center",
     "amenities": [
       "Breakfast",
-      "Free fitness center access",
-      "+5"
+      "Welcome drink",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Amory Dalat Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 302,659",
+    "price_per_night": 302659,
+    "rating": "9.5 Exceptional",
+    "review_count_text": "26 reviews",
+    "review_count": 26,
+    "stars": 4,
+    "location": "Old Train Station, Dalat - 3.1 km to center",
+    "amenities": [
+      "Welcome drink",
+      "Parking",
+      "Express check-in",
+      "+1"
+    ]
+  },
+  {
+    "hotel_name": "Thanh Thanh Station View",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 174,632",
+    "price_per_night": 174632,
+    "rating": "9.1 Exceptional",
+    "review_count_text": "16 reviews",
+    "review_count": 16,
+    "stars": 3,
+    "location": "Dalat City Center, Dalat - 1.3 km to center",
+    "amenities": [
+      "Free WiFi",
+      "Parking"
+    ]
+  },
+  {
+    "hotel_name": "Len's Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 617,885",
+    "price_per_night": 617885,
+    "rating": "8.6 Excellent",
+    "review_count_text": "2,016 reviews",
+    "review_count": 2016,
+    "stars": 3,
+    "location": "Dalat City Center, Dalat - City center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free Premium Wifi",
+      "+2"
     ]
   },
   {
     "hotel_name": "Melia Vinpearl Hue",
     "city": "Hue",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,734,778",
-    "price_per_night": 1734778,
+    "price_per_night_text": "₫ 1,842,834",
+    "price_per_night": 1842834,
     "rating": "9.4 Exceptional",
     "review_count_text": "8,387 reviews",
     "review_count": 8387,
@@ -3040,8 +3354,8 @@
     "hotel_name": "Muong Thanh Holiday Hue Hotel",
     "city": "Hue",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,057,268",
-    "price_per_night": 1057268,
+    "price_per_night_text": "₫ 1,113,586",
+    "price_per_night": 1113586,
     "rating": "8.5 Excellent",
     "review_count_text": "1,839 reviews",
     "review_count": 1839,
@@ -3058,8 +3372,8 @@
     "hotel_name": "Ancient Hue Garden Houses",
     "city": "Hue",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 2,388,229",
-    "price_per_night": 2388229,
+    "price_per_night_text": "₫ 2,110,032",
+    "price_per_night": 2110032,
     "rating": "9.5 Exceptional",
     "review_count_text": "702 reviews",
     "review_count": 702,
@@ -3072,91 +3386,11 @@
     ]
   },
   {
-    "hotel_name": "LA VELA HUE HOTEL",
-    "city": "Hue",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,004,265",
-    "price_per_night": 1004265,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "2,036 reviews",
-    "review_count": 2036,
-    "stars": 5,
-    "location": "Hue City, Hue - 2.9 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+5"
-    ]
-  },
-  {
-    "hotel_name": "CasaWa Homestay Hue",
-    "city": "Hue",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 789,390",
-    "price_per_night": 789390,
-    "rating": "8.1 Excellent",
-    "review_count_text": "20 reviews",
-    "review_count": 20,
-    "stars": null,
-    "location": "Imperial Citadel, Hue - 1.4 km to center",
-    "amenities": []
-  },
-  {
-    "hotel_name": "Magnolia Boutique Hue",
-    "city": "Hue",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 555,556",
-    "price_per_night": 555556,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "71 reviews",
-    "review_count": 71,
-    "stars": 4,
-    "location": "Hue City, Hue - 0.9 km to center",
-    "amenities": [
-      "Parking",
-      "Free WiFi"
-    ]
-  },
-  {
-    "hotel_name": "TTC Imperial Hotel",
-    "city": "Hue",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,332,674",
-    "price_per_night": 1332674,
-    "rating": "9.0 Exceptional",
-    "review_count_text": "4,364 reviews",
-    "review_count": 4364,
-    "stars": 5,
-    "location": "Hue City, Hue - City center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+5"
-    ]
-  },
-  {
-    "hotel_name": "Moonlight Hotel Hue",
-    "city": "Hue",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 608,295",
-    "price_per_night": 608295,
-    "rating": "8.8 Excellent",
-    "review_count_text": "2,784 reviews",
-    "review_count": 2784,
-    "stars": 4,
-    "location": "Hue City, Hue - City center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+3"
-    ]
-  },
-  {
     "hotel_name": "Kly Luxury Hotel",
     "city": "Hue",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 382,310",
-    "price_per_night": 382310,
+    "price_per_night_text": "₫ 464,736",
+    "price_per_night": 464736,
     "rating": "9.2 Exceptional",
     "review_count_text": "320 reviews",
     "review_count": 320,
@@ -3170,20 +3404,83 @@
     ]
   },
   {
-    "hotel_name": "Huong Giang Hotel Resort & Spa",
+    "hotel_name": "Duy Tan Hotel",
     "city": "Hue",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 739,277",
-    "price_per_night": 739277,
-    "rating": "8.5 Excellent",
-    "review_count_text": "4,006 reviews",
-    "review_count": 4006,
-    "stars": 4,
-    "location": "Perfume River, Hue - City center",
+    "price_per_night_text": "₫ 909,962",
+    "price_per_night": 909962,
+    "rating": "7.9 Very good",
+    "review_count_text": "188 reviews",
+    "review_count": 188,
+    "stars": 3,
+    "location": "Hue City, Hue - City center",
+    "amenities": []
+  },
+  {
+    "hotel_name": "LA VELA HUE HOTEL",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,066,000",
+    "price_per_night": 1066000,
+    "rating": "9.2 Exceptional",
+    "review_count_text": "2,036 reviews",
+    "review_count": 2036,
+    "stars": 5,
+    "location": "Hue City, Hue - 2.9 km to center",
     "amenities": [
       "Breakfast",
       "Free fitness center access",
       "+5"
+    ]
+  },
+  {
+    "hotel_name": "TTC Imperial Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 866,482",
+    "price_per_night": 866482,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "4,364 reviews",
+    "review_count": 4364,
+    "stars": 5,
+    "location": "Hue City, Hue - City center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Moonlight Hotel Hue",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,191,376",
+    "price_per_night": 1191376,
+    "rating": "8.8 Excellent",
+    "review_count_text": "2,784 reviews",
+    "review_count": 2784,
+    "stars": 4,
+    "location": "Hue City, Hue - City center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Magnolia Boutique Hue",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 649,306",
+    "price_per_night": 649306,
+    "rating": "9.2 Exceptional",
+    "review_count_text": "71 reviews",
+    "review_count": 71,
+    "stars": 4,
+    "location": "Hue City, Hue - 0.9 km to center",
+    "amenities": [
+      "Parking",
+      "Free WiFi"
     ]
   },
   {
@@ -3204,123 +3501,29 @@
     ]
   },
   {
-    "hotel_name": "White Lotus Hue Hotel",
+    "hotel_name": "Alba Spa Hotel",
     "city": "Hue",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,006,982",
-    "price_per_night": 1006982,
-    "rating": "9.3 Exceptional",
-    "review_count_text": "3,944 reviews",
-    "review_count": 3944,
+    "price_per_night_text": "₫ 741,035",
+    "price_per_night": 741035,
+    "rating": "9.0 Exceptional",
+    "review_count_text": "2,867 reviews",
+    "review_count": 2867,
     "stars": 4,
     "location": "Hue City, Hue - City center",
     "amenities": [
       "Breakfast",
-      "Free fitness center access",
-      "+4"
-    ]
-  },
-  {
-    "hotel_name": "June Homestay Huế",
-    "city": "Hue",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 816,906",
-    "price_per_night": 816906,
-    "rating": "",
-    "review_count_text": "",
-    "review_count": null,
-    "stars": 2,
-    "location": "Hue City, Hue - City center",
-    "amenities": [
-      "Airport transfer",
-      "Wi-Fi"
-    ]
-  },
-  {
-    "hotel_name": "The Chum Boutique",
-    "city": "Hue",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 464,973",
-    "price_per_night": 464973,
-    "rating": "9.2 Exceptional",
-    "review_count_text": "700 reviews",
-    "review_count": 700,
-    "stars": 3,
-    "location": "Hue City, Hue - City center",
-    "amenities": [
-      "Free WiFi"
-    ]
-  },
-  {
-    "hotel_name": "Villa Hue",
-    "city": "Hue",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 56,222,222",
-    "price_per_night": 56222222,
-    "rating": "",
-    "review_count_text": "",
-    "review_count": null,
-    "stars": null,
-    "location": "Phong Son, Hue - 6.4 km to center",
-    "amenities": []
-  },
-  {
-    "hotel_name": "Silk Path Grand Hue Hotel",
-    "city": "Hue",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,883,755",
-    "price_per_night": 1883755,
-    "rating": "9.4 Exceptional",
-    "review_count_text": "1,967 reviews",
-    "review_count": 1967,
-    "stars": 5,
-    "location": "Hue City, Hue - 0.7 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+3"
-    ]
-  },
-  {
-    "hotel_name": "Thanh Lich Royal Boutique Hotel",
-    "city": "Hue",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 1,194,074",
-    "price_per_night": 1194074,
-    "rating": "9.1 Exceptional",
-    "review_count_text": "4,188 reviews",
-    "review_count": 4188,
-    "stars": 4,
-    "location": "Hue City, Hue - City center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+5"
-    ]
-  },
-  {
-    "hotel_name": "Mondial Hotel Hue",
-    "city": "Hue",
-    "country": "Vietnam",
-    "price_per_night_text": "₫ 679,377",
-    "price_per_night": 679377,
-    "rating": "8.5 Excellent",
-    "review_count_text": "2,461 reviews",
-    "review_count": 2461,
-    "stars": 4,
-    "location": "Hue City, Hue - 0.4 km to center",
-    "amenities": [
-      "Breakfast",
-      "Free fitness center access",
-      "+6"
+      "Welcome drink",
+      "Late check-out",
+      "+8"
     ]
   },
   {
     "hotel_name": "Saigon Morin Hotel",
     "city": "Hue",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 1,111,487",
-    "price_per_night": 1111487,
+    "price_per_night_text": "₫ 1,137,823",
+    "price_per_night": 1137823,
     "rating": "8.7 Excellent",
     "review_count_text": "3,936 reviews",
     "review_count": 3936,
@@ -3333,21 +3536,168 @@
     ]
   },
   {
-    "hotel_name": "Alba Spa Hotel",
+    "hotel_name": "The Family House",
     "city": "Hue",
     "country": "Vietnam",
-    "price_per_night_text": "₫ 719,493",
-    "price_per_night": 719493,
-    "rating": "9.0 Exceptional",
-    "review_count_text": "2,867 reviews",
-    "review_count": 2867,
+    "price_per_night_text": "₫ 1,005,617",
+    "price_per_night": 1005617,
+    "rating": "",
+    "review_count_text": "",
+    "review_count": null,
+    "stars": 2,
+    "location": "Hue City, Hue - 1.8 km to center",
+    "amenities": [
+      "Wi-Fi"
+    ]
+  },
+  {
+    "hotel_name": "Silk Path Grand Hue Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,818,189",
+    "price_per_night": 1818189,
+    "rating": "9.4 Exceptional",
+    "review_count_text": "1,967 reviews",
+    "review_count": 1967,
+    "stars": 5,
+    "location": "Hue City, Hue - 0.7 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "CasaWa Homestay Hue",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 788,974",
+    "price_per_night": 788974,
+    "rating": "8.1 Excellent",
+    "review_count_text": "20 reviews",
+    "review_count": 20,
+    "stars": null,
+    "location": "Imperial Citadel, Hue - 1.4 km to center",
+    "amenities": []
+  },
+  {
+    "hotel_name": "Mondial Hotel Hue",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 674,370",
+    "price_per_night": 674370,
+    "rating": "8.5 Excellent",
+    "review_count_text": "2,461 reviews",
+    "review_count": 2461,
+    "stars": 4,
+    "location": "Hue City, Hue - 0.4 km to center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Century Riverside Hotel Hue",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 776,015",
+    "price_per_night": 776015,
+    "rating": "8.1 Excellent",
+    "review_count_text": "4,131 reviews",
+    "review_count": 4131,
+    "stars": 4,
+    "location": "Perfume River, Hue - City center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+8"
+    ]
+  },
+  {
+    "hotel_name": "Huong Giang Hotel Resort & Spa",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 738,887",
+    "price_per_night": 738887,
+    "rating": "8.5 Excellent",
+    "review_count_text": "4,006 reviews",
+    "review_count": 4006,
+    "stars": 4,
+    "location": "Perfume River, Hue - City center",
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Hướng Dương Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 328,243",
+    "price_per_night": 328243,
+    "rating": "8.0 Excellent",
+    "review_count_text": "811 reviews",
+    "review_count": 811,
+    "stars": 3,
+    "location": "Hue City, Hue - City center",
+    "amenities": [
+      "Welcome drink",
+      "Parking",
+      "Room sanitizing",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Pilgrimage Village Boutique Resort & Spa",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 2,304,809",
+    "price_per_night": 2304809,
+    "rating": "9.5 Exceptional",
+    "review_count_text": "3,200 reviews",
+    "review_count": 3200,
+    "stars": 5,
+    "location": "Hue City, Hue - 2.5 km to center",
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Hoàn Cầu Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 262,594",
+    "price_per_night": 262594,
+    "rating": "8.9 Excellent",
+    "review_count_text": "44 reviews",
+    "review_count": 44,
+    "stars": 3,
+    "location": "Hue City, Hue - City center",
+    "amenities": [
+      "Welcome drink",
+      "Parking",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "White Lotus Hue Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night_text": "₫ 1,050,159",
+    "price_per_night": 1050159,
+    "rating": "9.3 Exceptional",
+    "review_count_text": "3,944 reviews",
+    "review_count": 3944,
     "stars": 4,
     "location": "Hue City, Hue - City center",
     "amenities": [
       "Breakfast",
-      "Welcome drink",
-      "Late check-out",
-      "+7"
+      "Free fitness center access",
+      "+4"
     ]
   }
 ]

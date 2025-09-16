@@ -347,7 +347,7 @@ def aggressive_crawl_cities(cities_list, headless=False, delay_range=(10, 20)):
     
     print("AGGRESSIVE SELENIUM CRAWLER - FINAL VERSION")
     print(f"Headless mode: {headless} (Recommended: False for better results)")
-    print("Target: 20 hotels per city")
+    print("Target: 22 hotels per city")
     
     try:
         driver = setup_selenium_driver(headless=headless)
@@ -356,7 +356,7 @@ def aggressive_crawl_cities(cities_list, headless=False, delay_range=(10, 20)):
             try:
                 print(f"\nProgress: {i+1}/{len(cities_list)} cities")
                 
-                hotels = crawling_data_aggressive(driver, city_id, city_name, country, max_hotels=20)
+                hotels = crawling_data_aggressive(driver, city_id, city_name, country, max_hotels=22)
                 
                 if hotels and len(hotels) > 0:
                     all_hotels.extend(hotels)
