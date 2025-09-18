@@ -210,7 +210,6 @@ def crawling_data_aggressive(driver, city_id, city_name, country, max_hotels=20)
                 rating_text = ''
                 rating_score = ''
                 
-                # Method 1: Look for rating in property-card-review section
                 review_section = hotel.select_one('[data-element-name="property-card-review"]')
                 if review_section:
                     score_elem = review_section.select_one('span.jqsyMk, span[class*="jqsyMk"]')
@@ -226,7 +225,6 @@ def crawling_data_aggressive(driver, city_id, city_name, country, max_hotels=20)
                     elif rating_score:
                         rating_text = rating_score
                 
-                # Method 2: Fallback to ReviewWithDemographic
                 if not rating_text:
                     review_demo = hotel.select_one('.ReviewWithDemographic p')
                     if review_demo:
@@ -244,13 +242,45 @@ def crawling_data_aggressive(driver, city_id, city_name, country, max_hotels=20)
                             stars = int(star_match.group(1))
                             break
                 
-                location = ''
-                location_selectors = ['button[data-selenium="area-city-text"] span', '.PropertyCard__Location']
+                location_raw = ''
+                location_selectors = [
+                    'button[data-selenium="area-city-text"] span',  # Most common in Agoda
+                    'button[data-selenium="area-city-text"]',      # Fallback without span
+                    '[data-element-name="searchweb-propertycard-arealink"] button span',  # Sample HTML structure
+                    '[data-element-name="searchweb-propertycard-arealink"] span[label*="km"]',  # Direct label attribute
+                    '.PropertyCard__Location',                      # Generic class
+                    '[data-selenium="area-city"]'                   # Another common selector
+                ]
                 for selector in location_selectors:
                     elem = hotel.select_one(selector)
                     if elem:
-                        location = elem.text.strip()
-                        break
+                        # Try to get from label attribute first (more accurate)
+                        label_attr = elem.get('label')
+                        if label_attr and ('km to center' in label_attr or 'City center' in label_attr):
+                            location_raw = label_attr
+                            break
+                        # Otherwise get text content
+                        elif elem.text.strip():
+                            location_raw = elem.text.strip()
+                            break
+                
+                location_clean = location_raw
+                distance_to_center = None
+                
+                if location_raw:
+                    distance_match = re.search(r'(\d+\.?\d*)\s*km to center', location_raw, re.IGNORECASE)
+                    if distance_match:
+                        try:
+                            distance_to_center = float(distance_match.group(1))
+                            location_clean = re.sub(r' - \d+\.?\d*\s*km to center', '', location_raw, flags=re.IGNORECASE)
+                        except ValueError:
+                            pass
+                    
+                    if 'City center' in location_raw:
+                        distance_to_center = 0.0
+                        location_clean = location_raw.replace(' - City center', '').replace('City center', '')
+                    
+                    location_clean = location_clean.strip()
                 
                 review_count_text = ''
                 review_count_number = None
@@ -285,29 +315,164 @@ def crawling_data_aggressive(driver, city_id, city_name, country, max_hotels=20)
                                     pass
                             break
                 
+                # Extract amenities
                 amenities = []
                 amenity_elems = hotel.select('div[data-element-name="pill-each-item"] span')
                 amenities = [elem.text.strip() for elem in amenity_elems if elem.text.strip()]
                 
+                # =============================================================================
+                # 🆕 TRANSPORTATION OPTIONS EXTRACTION - IMPROVED WITH MORE SELECTORS
+                # =============================================================================
+                transportation_options = []
+                
+                # Method 1: Extract from transportation tooltip (most accurate)
+                transport_selectors = [
+                    'span[role="tooltip"]',  # Standard tooltip
+                    '.tooltip',
+                    '[aria-describedby*="transport"]',
+                    '[data-testid*="transport"]',
+                    '.transport-tooltip'
+                ]
+                
+                for selector in transport_selectors:
+                    tooltips = hotel.select(selector)
+                    for tooltip in tooltips:
+                        tooltip_text = tooltip.get_text()
+                        
+                        # Check if this is a transportation tooltip
+                        if any(keyword in tooltip_text.lower() for keyword in ['transportation options', 'nearest transportation', 'transport', 'station', 'airport', 'bus']):
+                            # Extract individual transportation items from various structures
+                            transport_item_selectors = [
+                                'div[role="listitem"] p:last-child',  # Most common
+                                'li p:last-child',
+                                '.transport-item',
+                                'div[role="listitem"]',
+                                'li',
+                                'p'  # Last resort
+                            ]
+                            
+                            for item_selector in transport_item_selectors:
+                                transport_items = tooltip.select(item_selector)
+                                found_items = False
+                                
+                                for item in transport_items:
+                                    transport_text = item.get_text().strip()
+                                    
+                                    # Skip empty items and bullet points
+                                    if not transport_text or transport_text == '•' or len(transport_text) < 3:
+                                        continue
+                                    
+                                    # Clean up the text (remove distances and extra info)
+                                    clean_patterns = [
+                                        r' is within \d+\.?\d*\s*km',
+                                        r' - \d+\.?\d*\s*km.*',
+                                        r'\(\d+\.?\d*\s*km\)',
+                                        r'Distance:?\s*\d+\.?\d*\s*km'
+                                    ]
+                                    
+                                    clean_transport = transport_text
+                                    for pattern in clean_patterns:
+                                        clean_transport = re.sub(pattern, '', clean_transport, flags=re.IGNORECASE)
+                                    
+                                    clean_transport = clean_transport.strip()
+                                    
+                                    # Validate this looks like a transportation option
+                                    transport_keywords = ['station', 'airport', 'bus', 'metro', 'railway', 'train', 'stop', 'terminal', 'port']
+                                    if any(keyword in clean_transport.lower() for keyword in transport_keywords):
+                                        if clean_transport not in transportation_options:
+                                            transportation_options.append(clean_transport)
+                                            found_items = True
+                                
+                                # If we found items with this selector, don't try others
+                                if found_items:
+                                    break
+                            
+                            # If we found transportation in this tooltip, break
+                            if transportation_options:
+                                break
+                    
+                    # If we found transportation with this selector type, break
+                    if transportation_options:
+                        break
+                
+                # Method 2: Look for transportation in amenities as fallback
+                transport_amenity_keywords = ['airport', 'shuttle', 'parking', 'metro', 'bus', 'taxi', 'transport', 'station', 'railway', 'train']
+                
+                for amenity in amenities:
+                    amenity_lower = amenity.lower()
+                    for keyword in transport_amenity_keywords:
+                        if keyword in amenity_lower:
+                            if amenity not in transportation_options:
+                                transportation_options.append(amenity)
+                            break
+                
+                # Method 3: Look for transportation in dedicated sections
+                transport_section_selectors = [
+                    '.transport-info',
+                    '.access-info', 
+                    '[data-element*="transport"]',
+                    '.location-info',
+                    '[aria-label*="transport"]'
+                ]
+                
+                for selector in transport_section_selectors:
+                    transport_sections = hotel.select(selector)
+                    for section in transport_sections:
+                        transport_text = section.get_text().strip()
+                        if transport_text and len(transport_text) > 5:  # Reasonable length
+                            # Split by common separators
+                            items = re.split(r'[,;•\n]', transport_text)
+                            for item in items:
+                                item = item.strip()
+                                if item and len(item) > 3:
+                                    # Check if it mentions transportation
+                                    if any(keyword in item.lower() for keyword in transport_amenity_keywords):
+                                        if item not in transportation_options:
+                                            transportation_options.append(item)
+                
+                # Extract numeric rating and status from rating text
+                rating_numeric = None
+                rating_status = None
+                if rating_text:
+                    match = re.match(r'^(\d+\.?\d*)\s+(.+)$', rating_text.strip())
+                    if match:
+                        try:
+                            rating_numeric = float(match.group(1))
+                            rating_status = match.group(2).strip()
+                        except ValueError:
+                            rating_status = rating_text
+                    else:
+                        rating_status = rating_text
+
                 hotel_data = {
                     "hotel_name": name,
                     "city": city_name,
                     "country": country,
-                    "price_per_night_text": price_text,
                     "price_per_night": price_numeric,
-                    "rating": rating_text,
-                    "review_count_text": review_count_text,  
+                    "rating": rating_numeric,
+                    "rating_status": rating_status,
                     "review_count": review_count_number,   
                     "stars": stars,
-                    "location": location,
+                    "location": location_clean,
+                    "distance_to_center": distance_to_center,
+                    "transportation_options": transportation_options,
                     "amenities": amenities,
                 }
 
                 hotels.append(hotel_data)
                 extracted_count += 1
                 
+                # Simplified debug output
                 review_status = f"({review_count_number} reviews)" if review_count_number else "(no reviews)"
-                print(f"Hotel {extracted_count}: {name[:35]} - {rating_text} - {review_status}")
+                distance_info = f"{distance_to_center}km" if distance_to_center else "center"
+                transport_info = f"{len(transportation_options)} transport" if transportation_options else "no transport"
+                rating_display = f"{rating_numeric} {rating_status}" if rating_numeric and rating_status else rating_text or "No rating"
+                
+                print(f"Hotel {extracted_count}: {name[:30]} - {rating_display} - {distance_info} - {transport_info} - {review_status}")
+                
+                # Debug: Log transportation options (first few hotels)
+                if extracted_count <= 3 and transportation_options:
+                    print(f"  🚊 Transport options: {transportation_options}")
 
             except Exception as e:
                 print(f"Error extracting hotel {i+1}: {e}")
@@ -368,7 +533,7 @@ def aggressive_crawl_cities(cities_list, headless=False, delay_range=(10, 20)):
                 
                 if i < len(cities_list) - 1:
                     delay = random.uniform(delay_range[0], delay_range[1])
-                    print(f"💤 Waiting {delay:.1f}s before next city...")
+                    print(f"Waiting {delay:.1f}s before next city...")
                     time.sleep(delay)
                     
             except KeyboardInterrupt:
@@ -433,11 +598,45 @@ if __name__ == "__main__":
             
         prices = [h['price_per_night'] for h in all_hotels if h['price_per_night']]
         if prices:
-            print(f"\nPrice statistics:")
+            print("\nPrice statistics:")
             print(f"  Cheapest: ₫{min(prices):,}")
             print(f"  Most expensive: ₫{max(prices):,}")
             print(f"  Average: ₫{sum(prices)//len(prices):,}")
         
+        distances = [h['distance_to_center'] for h in all_hotels if h['distance_to_center'] is not None]
+        if distances:
+            print("\nDistance to center statistics:")
+            print(f"  Hotels with distance data: {len(distances)}/{len(all_hotels)}")
+            print(f"  Closest: {min(distances)} km")
+            print(f"  Farthest: {max(distances)} km")
+            print(f"  Average: {sum(distances)/len(distances):.1f} km")
+        
+        transport_counts = [len(h['transportation_options']) for h in all_hotels if h['transportation_options']]
+        if transport_counts:
+            print("\nTransportation options statistics:")
+            print(f"  Hotels with transport data: {len(transport_counts)}/{len(all_hotels)}")
+            print(f"  Max transport options: {max(transport_counts)}")
+            print(f"  Average transport options: {sum(transport_counts)/len(transport_counts):.1f}")
+        
+        # Rating statistics
+        ratings = [h['rating'] for h in all_hotels if h['rating'] is not None]
+        if ratings:
+            print("\nRating statistics:")
+            print(f"  Hotels with ratings: {len(ratings)}/{len(all_hotels)}")
+            print(f"  Min rating: {min(ratings)}")
+            print(f"  Max rating: {max(ratings)}")
+            print(f"  Average rating: {sum(ratings)/len(ratings):.2f}")
+        
+        # Rating status distribution
+        rating_statuses = [h['rating_status'] for h in all_hotels if h['rating_status']]
+        if rating_statuses:
+            from collections import Counter
+            status_counts = Counter(rating_statuses)
+            print("\nRating status distribution:")
+            for status, count in status_counts.most_common():
+                print(f"  {status}: {count} hotels")
+        
         print(f"\nFINAL SUCCESS: {len(all_hotels)} hotels from {len(set(h['city'] for h in all_hotels))} cities!")
+        print("✅ Enhanced with: location split, distance data, transportation options, and clean rating fields")
     else:
         print("No data collected!")
