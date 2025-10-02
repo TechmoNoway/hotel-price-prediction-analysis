@@ -584,8 +584,8 @@ if __name__ == "__main__":
     
     if all_hotels:
         print("\nSaving final results...")
-        save_to_json(all_hotels, 'vietnam_hotels_data.json')
-        save_to_csv(all_hotels, 'vietnam_hotels_data.csv')
+        save_to_json(all_hotels, 'vietnam_hotels_data_2.json')
+        save_to_csv(all_hotels, 'vietnam_hotels_data_2.csv')
               
         city_counts = {}
         for hotel in all_hotels:

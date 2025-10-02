@@ -1,0 +1,4465 @@
+[
+  {
+    "hotel_name": "Bay Hotel Ho Chi Minh",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 1426677,
+    "rating": null,
+    "rating_status": "8.3Excellent",
+    "review_count": 4699,
+    "stars": 4,
+    "location": "District 1, Ho Chi Minh City",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+10"
+    ]
+  },
+  {
+    "hotel_name": "LOTTE HOTEL SAIGON",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 11855203,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 10014,
+    "stars": 5,
+    "location": "District 1, Ho Chi Minh City",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Belvilla Comfort Stays Near SECC formerly Cozy Hotel",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 478859,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 427,
+    "stars": 4,
+    "location": "District 7, Ho Chi Minh City",
+    "distance_to_center": 3.5,
+    "transportation_options": [
+      "Ben Xe Mien Tay Bus Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Golden Star Hotel - 60 Le Thanh Ton",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 979226,
+    "rating": null,
+    "rating_status": "7.6Very good",
+    "review_count": 2259,
+    "stars": 3,
+    "location": "District 1, Ho Chi Minh City",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Yoko Airport Saigon Hotel",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 387434,
+    "rating": null,
+    "rating_status": "8.0Excellent",
+    "review_count": 1530,
+    "stars": 4,
+    "location": "Tân Bình, Ho Chi Minh City",
+    "distance_to_center": 4.7,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Parking",
+      "Express check-in",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Landmark 81 & Vinhomes Urban - Luxury Apartment",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 1117125,
+    "rating": null,
+    "rating_status": "8.0Excellent",
+    "review_count": 354,
+    "stars": 5,
+    "location": "Bình Thạnh, Ho Chi Minh City",
+    "distance_to_center": 1.3,
+    "transportation_options": [
+      "Ben Xe Mien Dong Bus Station",
+      "Saigon Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Free pool access",
+      "Parking",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Triple E Hotel Metro Ben Thanh",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 1546340,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 4858,
+    "stars": 3,
+    "location": "District 1, Ho Chi Minh City",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Khach san Muong Thanh Luxury Saigon Hotel",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 1423877,
+    "rating": null,
+    "rating_status": "8.6Excellent",
+    "review_count": 5697,
+    "stars": 4,
+    "location": "Phú Nhuận, Ho Chi Minh City",
+    "distance_to_center": 3.2,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Asian Ruby Center Point Hotel",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 718373,
+    "rating": null,
+    "rating_status": "7.6Very good",
+    "review_count": 2991,
+    "stars": 3,
+    "location": "District 1, Ho Chi Minh City",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Liberty Hotel Saigon Parkview",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 932530,
+    "rating": null,
+    "rating_status": "7.9Very good",
+    "review_count": 6092,
+    "stars": 3,
+    "location": "District 1, Ho Chi Minh City",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Sunshine Airport Hotel",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 426316,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 95,
+    "stars": 4,
+    "location": "Tân Bình, Ho Chi Minh City",
+    "distance_to_center": 4.6,
+    "transportation_options": [
+      "Parking"
+    ],
+    "amenities": [
+      "Parking",
+      "Express check-in",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Landmark 81 & Vinhomes - Royal Galaxy Apartment",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 1637672,
+    "rating": null,
+    "rating_status": "8.0Excellent",
+    "review_count": 185,
+    "stars": 5,
+    "location": "Bình Thạnh, Ho Chi Minh City",
+    "distance_to_center": 1.3,
+    "transportation_options": [
+      "Ben Xe Mien Dong Bus Station",
+      "Saigon Railway Station"
+    ],
+    "amenities": [
+      "Free WiFi",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "LA VELA SAIGON HOTEL",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 3769841,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 28144,
+    "stars": 5,
+    "location": "District 3, Ho Chi Minh City",
+    "distance_to_center": 1.5,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+8"
+    ]
+  },
+  {
+    "hotel_name": "Muong Thanh Saigon Centre Hotel",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 1660290,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 3712,
+    "stars": 4,
+    "location": "District 1, Ho Chi Minh City",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Mia Saigon Luxury Boutique Hotel",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 4769752,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 3134,
+    "stars": 5,
+    "location": "District 2, Ho Chi Minh City",
+    "distance_to_center": 4.8,
+    "transportation_options": [
+      "Ben Xe Mien Dong Bus Station",
+      "Saigon Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Tan Son Nhat Saigon Hotel",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 1694929,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 4325,
+    "stars": 5,
+    "location": "Phú Nhuận, Ho Chi Minh City",
+    "distance_to_center": 3.5,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Oscar Saigon Hotel",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 1121559,
+    "rating": null,
+    "rating_status": "7.9Very good",
+    "review_count": 8853,
+    "stars": 4,
+    "location": "District 1, Ho Chi Minh City",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Hotel Continental Saigon",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 3437665,
+    "rating": null,
+    "rating_status": "8.4Excellent",
+    "review_count": 7928,
+    "stars": 4,
+    "location": "District 1, Ho Chi Minh City",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "ibis Saigon Airport",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 1845000,
+    "rating": null,
+    "rating_status": "8.6Excellent",
+    "review_count": 13147,
+    "stars": 4,
+    "location": "Tân Bình, Ho Chi Minh City",
+    "distance_to_center": 4.9,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station",
+      "Airport transfer [both ways]"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free WiFi",
+      "Airport transfer [both ways]"
+    ]
+  },
+  {
+    "hotel_name": "Wink Hotel Saigon Centre - 24hrs Stay",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 1944444,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 5136,
+    "stars": 4,
+    "location": "District 1, Ho Chi Minh City",
+    "distance_to_center": 0.5,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Saigon Prince Hotel",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 2366692,
+    "rating": null,
+    "rating_status": "8.3Excellent",
+    "review_count": 7426,
+    "stars": 4,
+    "location": "District 1, Ho Chi Minh City",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Saigon Railway Station",
+      "Ben Xe Mien Dong Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "G8 Riverside Hotel Saigon",
+    "city": "Ho Chi Minh",
+    "country": "Vietnam",
+    "price_per_night": 1793272,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 134,
+    "stars": 3,
+    "location": "District 1, Ho Chi Minh City",
+    "distance_to_center": 0.3,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Express check-in",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Lotte Hotel Hanoi",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 3750000,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 10876,
+    "stars": 5,
+    "location": "Ba Dinh, Hanoi",
+    "distance_to_center": 2.9,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+8"
+    ]
+  },
+  {
+    "hotel_name": "Kecho Legacy Hotel & Spa",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 2547939,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 1203,
+    "stars": 5,
+    "location": "Old Quarter, Hanoi",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Spa discount",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Dolce by Wyndham Hanoi Golden Lake",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 2560000,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 2339,
+    "stars": 5,
+    "location": "Ba Dinh, Hanoi",
+    "distance_to_center": 2.0,
+    "transportation_options": [
+      "Hanoi Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Ha Noi Memory Central Hotel & Spa",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 685473,
+    "rating": null,
+    "rating_status": "7.6Very good",
+    "review_count": 2789,
+    "stars": 4,
+    "location": "Old Quarter, Hanoi",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Pullman Hanoi Hotel",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 2450001,
+    "rating": null,
+    "rating_status": "8.1Excellent",
+    "review_count": 1702,
+    "stars": 4,
+    "location": "Dong Da, Hanoi",
+    "distance_to_center": 1.2,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "L7 WEST LAKE HANOI BY LOTTE",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 2932500,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 2936,
+    "stars": 5,
+    "location": "Tay Ho District, Hanoi",
+    "distance_to_center": 4.8,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Hanoi Daewoo Hotel",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 3088238,
+    "rating": null,
+    "rating_status": "8.4Excellent",
+    "review_count": 6507,
+    "stars": 5,
+    "location": "Ba Dinh, Hanoi",
+    "distance_to_center": 2.8,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Signature by M Village Thợ Nhuộm",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 1733293,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 1850,
+    "stars": 4,
+    "location": "Hoan Kiem District, Hanoi",
+    "distance_to_center": 0.4,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Le Jardin Hotel Haute Couture",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 2025338,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 1451,
+    "stars": 4,
+    "location": "Ba Dinh, Hanoi",
+    "distance_to_center": 0.3,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Grand Vista Hanoi",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 1912046,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 2939,
+    "stars": 5,
+    "location": "Ba Dinh, Hanoi",
+    "distance_to_center": 2.0,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Fukurai Boutique Apartments Ha Noi",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 648438,
+    "rating": null,
+    "rating_status": "8.4Excellent",
+    "review_count": 693,
+    "stars": 3,
+    "location": "Ba Dinh, Hanoi",
+    "distance_to_center": 2.7,
+    "transportation_options": [
+      "Hanoi Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Express check-in",
+      "+1"
+    ]
+  },
+  {
+    "hotel_name": "Lakeside Palace Hotel",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 683000,
+    "rating": null,
+    "rating_status": "7.5Very good",
+    "review_count": 1311,
+    "stars": 3,
+    "location": "Hoan Kiem District, Hanoi",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Express check-in",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "M Village Hotel Kim Mã",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 1107084,
+    "rating": null,
+    "rating_status": "8.4Excellent",
+    "review_count": 24,
+    "stars": 4,
+    "location": "Ba Dinh, Hanoi",
+    "distance_to_center": 1.4,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Delica Premium Hotel",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 1651083,
+    "rating": null,
+    "rating_status": "9.4Exceptional",
+    "review_count": 4253,
+    "stars": 4,
+    "location": "Old Quarter, Hanoi",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Hanoi Memory Premier Hotel & Spa",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 731665,
+    "rating": null,
+    "rating_status": "7.3Very good",
+    "review_count": 2732,
+    "stars": 4,
+    "location": "Old Quarter, Hanoi",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Afternoon tea",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Hanoi Veris Boutique Hotel & Spa",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 514327,
+    "rating": null,
+    "rating_status": "7.9Very good",
+    "review_count": 2852,
+    "stars": 3,
+    "location": "Hoan Kiem District, Hanoi",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free Premium Wifi",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Imperial Hotel & Spa",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 2116476,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 3029,
+    "stars": 4,
+    "location": "Hoan Kiem District, Hanoi",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Late check-out",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Fortuna Hotel Hanoi",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 1985260,
+    "rating": null,
+    "rating_status": "7.9Very good",
+    "review_count": 4730,
+    "stars": 4,
+    "location": "Ba Dinh, Hanoi",
+    "distance_to_center": 2.4,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "M Village Hotel Hồ Gươm",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 1408632,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 780,
+    "stars": 3,
+    "location": "Hoan Kiem District, Hanoi",
+    "distance_to_center": 0.1,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Room sanitizing",
+      "Free Premium Wifi",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Moonlit Suites Hotel",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 485210,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 516,
+    "stars": 4,
+    "location": "Tay Ho District, Hanoi",
+    "distance_to_center": 3.8,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Express check-in",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Rey Hotel Hanoi",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 2370148,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 1813,
+    "stars": 4,
+    "location": "Old Quarter, Hanoi",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanoi Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Grand Plaza Hotel Hanoi",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "price_per_night": 1970802,
+    "rating": null,
+    "rating_status": "8.3Excellent",
+    "review_count": 5320,
+    "stars": 5,
+    "location": "Cau Giay, Hanoi",
+    "distance_to_center": 5.2,
+    "transportation_options": [
+      "Hanoi Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+10"
+    ]
+  },
+  {
+    "hotel_name": "Canvas Danang Beach Hotel",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 2013251,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 3705,
+    "stars": 4,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 2.1,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+9"
+    ]
+  },
+  {
+    "hotel_name": "Nesta Hotel Da Nang",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 1265254,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 5010,
+    "stars": 4,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 2.5,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Golden Lotus Grand Da Nang",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 1186220,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 7415,
+    "stars": 4,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 2.5,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+12"
+    ]
+  },
+  {
+    "hotel_name": "Danang Beach Hotel by RAON",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 291684,
+    "rating": null,
+    "rating_status": "9.6Exceptional",
+    "review_count": 265,
+    "stars": 4,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 2.5,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Parking",
+      "Late check-in",
+      "Free Premium Wifi",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Muong Thanh Luxury Da Nang hotel",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 1349611,
+    "rating": null,
+    "rating_status": "8.6Excellent",
+    "review_count": 7410,
+    "stars": 5,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 2.5,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Muong Thanh Grand Da Nang Hotel",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 714286,
+    "rating": null,
+    "rating_status": "8.1Excellent",
+    "review_count": 4627,
+    "stars": 4,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 0.8,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Purama Resort - Luxury Pool Villa",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 9403064,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 91,
+    "stars": 5,
+    "location": "Hòa Hải, Da Nang",
+    "distance_to_center": 3.6,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Awaken Danang Hotel",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 1492063,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 4197,
+    "stars": 5,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 2.1,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+8"
+    ]
+  },
+  {
+    "hotel_name": "G8 Luxury Hotel and Spa Da Nang",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 600080,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 5863,
+    "stars": 4,
+    "location": "Hải Châu, Da Nang",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Sunset Sea Hotel",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 645454,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 1900,
+    "stars": 4,
+    "location": "An Hai Bac, Da Nang",
+    "distance_to_center": 1.7,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station",
+      "Airport drop-off"
+    ],
+    "amenities": [
+      "Free fitness center access",
+      "Airport drop-off",
+      "+12"
+    ]
+  },
+  {
+    "hotel_name": "Muong Thanh Luxury Song Han Hotel",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 863420,
+    "rating": null,
+    "rating_status": "8.3Excellent",
+    "review_count": 3578,
+    "stars": 5,
+    "location": "Hải Châu, Da Nang",
+    "distance_to_center": 0.1,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Ocean Haven Hotel",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 304117,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 965,
+    "stars": 3,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 1.9,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Car rental",
+      "+7"
+    ]
+  },
+  {
+    "hotel_name": "Golden Lotus Hotel Da Nang - Rooftop Bar Sea View",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 1059881,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 3927,
+    "stars": 4,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 2.6,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Late check-out",
+      "+10"
+    ]
+  },
+  {
+    "hotel_name": "DLG Hotel Danang",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 1544163,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 4712,
+    "stars": 5,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 2.3,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+7"
+    ]
+  },
+  {
+    "hotel_name": "Caro Premium Danang Hotel",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 1204292,
+    "rating": null,
+    "rating_status": "9.4Exceptional",
+    "review_count": 444,
+    "stars": 4,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 0.6,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+7"
+    ]
+  },
+  {
+    "hotel_name": "Royal Beach Hotel",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 318790,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 3708,
+    "stars": 4,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 1.9,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Parking",
+      "Room sanitizing",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Parosand Da Nang Hotel (Belle Maison Parosand Da Nang Hotel)",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 1165818,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 3839,
+    "stars": 4,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 2.1,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "The Ocean Estates Resort",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 10549921,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 77,
+    "stars": 5,
+    "location": "Hòa Hải, Da Nang",
+    "distance_to_center": 9.4,
+    "transportation_options": [],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Sandy Beach Non Nuoc Resort",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 665502,
+    "rating": null,
+    "rating_status": "8.0Excellent",
+    "review_count": 4487,
+    "stars": 4,
+    "location": "Hòa Hải, Da Nang",
+    "distance_to_center": 8.7,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Moonlight Hotel Da Nang",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 342152,
+    "rating": null,
+    "rating_status": "8.0Excellent",
+    "review_count": 3015,
+    "stars": 3,
+    "location": "Hải Châu, Da Nang",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Fivitel Da Nang Hotel",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 766033,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 5569,
+    "stars": 4,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 1.3,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Radisson Hotel Danang",
+    "city": "Da Nang",
+    "country": "Vietnam",
+    "price_per_night": 2023810,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 4714,
+    "stars": 5,
+    "location": "Phước Mỹ, Da Nang",
+    "distance_to_center": 2.1,
+    "transportation_options": [
+      "Da Nang Railway Station",
+      "Da Nang Central Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free Premium Wifi",
+      "+7"
+    ]
+  },
+  {
+    "hotel_name": "Havana Nha Trang Hotel",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 1105972,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 19996,
+    "stars": 5,
+    "location": "Loc Tho, Nha Trang",
+    "distance_to_center": 0.2,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Nha Trang Palace Hotel",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 481964,
+    "rating": null,
+    "rating_status": "8.6Excellent",
+    "review_count": 3045,
+    "stars": 4,
+    "location": "Loc Tho, Nha Trang",
+    "distance_to_center": 0.7,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free Premium Wifi",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Panorama Nha Trang Star Beach",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 597983,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 4042,
+    "stars": 5,
+    "location": "Loc Tho, Nha Trang",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free WiFi",
+      "Free fitness center access"
+    ]
+  },
+  {
+    "hotel_name": "Pavillon Boutique Hotel & Apartment Nha Trang",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 310922,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 1880,
+    "stars": 4,
+    "location": "Loc Tho, Nha Trang",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nha Trang Railway Station"
+    ],
+    "amenities": [
+      "Welcome drink",
+      "Free Premium Wifi",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Mojzo Inn Boutique",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 508769,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 5013,
+    "stars": 2,
+    "location": "Loc Tho, Nha Trang",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Radisson Blu Resort Cam Ranh",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 2777778,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 3904,
+    "stars": 5,
+    "location": "Cam Hải Đông, Nha Trang",
+    "distance_to_center": 19.5,
+    "transportation_options": [
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Lunch",
+      "Free WiFi",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Muong Thanh Luxury Khanh Hoa",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 900392,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 3146,
+    "stars": 5,
+    "location": "Xuong Huan, Nha Trang",
+    "distance_to_center": 1.6,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "KIM THANH BOUTIQUE HOTEL NHA TRANG",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 271467,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 171,
+    "stars": 4,
+    "location": "Loc Tho, Nha Trang",
+    "distance_to_center": 0.0,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Free Premium Wifi",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Florida Hotel",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 476190,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 1751,
+    "stars": 5,
+    "location": "Loc Tho, Nha Trang",
+    "distance_to_center": 0.4,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+7"
+    ]
+  },
+  {
+    "hotel_name": "Meliá Vinpearl Nha Trang Empire",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 1277865,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 4642,
+    "stars": 5,
+    "location": "Loc Tho, Nha Trang",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Amiana Resort Cam Ranh",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 2825007,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 851,
+    "stars": 5,
+    "location": "Cam Hải Đông, Nha Trang",
+    "distance_to_center": 13.3,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+10"
+    ]
+  },
+  {
+    "hotel_name": "Vinpearl Beachfront Nha Trang",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 1428511,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 6309,
+    "stars": 5,
+    "location": "Loc Tho, Nha Trang",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Holi Panorama Condotel",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 450242,
+    "rating": null,
+    "rating_status": "8.1Excellent",
+    "review_count": 5319,
+    "stars": 4,
+    "location": "Loc Tho, Nha Trang",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Pavillon Garden Hotel Nha Trang",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 249372,
+    "rating": null,
+    "rating_status": "8.2Excellent",
+    "review_count": 1105,
+    "stars": 3,
+    "location": "Loc Tho, Nha Trang",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": [
+      "Free Premium Wifi",
+      "Express check-in",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "TTC Van Phong Bay Resort - Himalaya Sauna & Steam Retreat Included",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 1527407,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 1284,
+    "stars": 5,
+    "location": "Doc Let, Nha Trang",
+    "distance_to_center": 33.1,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Virgo Hotel",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 779181,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 12451,
+    "stars": 5,
+    "location": "Tân Lập, Nha Trang",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "The Morning Glow Boutique Hotel Nha Trang",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 2270659,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 68,
+    "stars": 5,
+    "location": "Vĩnh Hòa, Nha Trang",
+    "distance_to_center": 4.8,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "BN Boutique Nha Trang Hotel",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 319488,
+    "rating": null,
+    "rating_status": "8.3Excellent",
+    "review_count": 686,
+    "stars": 4,
+    "location": "Loc Tho, Nha Trang",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+21"
+    ]
+  },
+  {
+    "hotel_name": "Rembrandt Hotel Nha Trang",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 281786,
+    "rating": null,
+    "rating_status": "8.2Excellent",
+    "review_count": 1469,
+    "stars": 3,
+    "location": "Loc Tho, Nha Trang",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Ana Mandara Cam Ranh",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 3597115,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 6314,
+    "stars": 5,
+    "location": "Cam Hải Đông, Nha Trang",
+    "distance_to_center": 15.8,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Regalia Gold Hotel",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 770011,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 21374,
+    "stars": 5,
+    "location": "Tân Lập, Nha Trang",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nha Trang Railway Station",
+      "Lien Tinh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Vinpearl Resort Nha Trang",
+    "city": "Nha Trang",
+    "country": "Vietnam",
+    "price_per_night": 2153409,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 7413,
+    "stars": 5,
+    "location": "Hon Tre, Nha Trang",
+    "distance_to_center": 4.8,
+    "transportation_options": [
+      "Nha Trang Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+7"
+    ]
+  },
+  {
+    "hotel_name": "The Signature Hoi An",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 1850554,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 1679,
+    "stars": 5,
+    "location": "Minh An, Hoi An",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Grand Sunrise Palace Hoi An",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 1430814,
+    "rating": null,
+    "rating_status": "9.7Exceptional",
+    "review_count": 7676,
+    "stars": 5,
+    "location": "Cam Chau, Hoi An",
+    "distance_to_center": 0.8,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+11"
+    ]
+  },
+  {
+    "hotel_name": "La Siesta Hoi An Resort & Spa",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 2209491,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 6276,
+    "stars": 5,
+    "location": "Thanh Ha, Hoi An",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+8"
+    ]
+  },
+  {
+    "hotel_name": "Ancient Town Hotel",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 520598,
+    "rating": null,
+    "rating_status": "9.5Exceptional",
+    "review_count": 332,
+    "stars": 4,
+    "location": "Cẩm Phô, Hoi An",
+    "distance_to_center": 0.0,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Late check-out",
+      "+7"
+    ]
+  },
+  {
+    "hotel_name": "RAON HOI AN VILLA",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 392673,
+    "rating": null,
+    "rating_status": "9.7Exceptional",
+    "review_count": 294,
+    "stars": 4,
+    "location": "Cam Thanh, Hoi An",
+    "distance_to_center": 2.1,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Local breakfast",
+      "Parking",
+      "+8"
+    ]
+  },
+  {
+    "hotel_name": "Hotel Hoi An Front Beach",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 356402,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 409,
+    "stars": 4,
+    "location": "Cửa Đại, Hoi An",
+    "distance_to_center": 2.7,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Late check-out",
+      "+7"
+    ]
+  },
+  {
+    "hotel_name": "Mulberry Collection Silk Eco",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 1387392,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 2695,
+    "stars": 4,
+    "location": "Cẩm Phô, Hoi An",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Calla Hotel - 4 minute walk to the Ancient Town",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 564628,
+    "rating": null,
+    "rating_status": "9.6Exceptional",
+    "review_count": 256,
+    "stars": 3,
+    "location": "Cẩm Phô, Hoi An",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Parking",
+      "Late check-in",
+      "Free WiFi",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Lantana Boutique Hoi An Hotel",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 1333093,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 3558,
+    "stars": 4,
+    "location": "Minh An, Hoi An",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+10"
+    ]
+  },
+  {
+    "hotel_name": "New World Hoiana Hotel",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 2062322,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 1585,
+    "stars": 5,
+    "location": "Thang Binh, Hoi An",
+    "distance_to_center": 8.4,
+    "transportation_options": [
+      "Airport transfer [both ways]"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Sen Village Hoi An",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 1117942,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 27,
+    "stars": 5,
+    "location": "Cam Chau, Hoi An",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+9"
+    ]
+  },
+  {
+    "hotel_name": "LEGACY HOI AN RESORT",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 1224322,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 2807,
+    "stars": 4,
+    "location": "Cam Thanh, Hoi An",
+    "distance_to_center": 1.3,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Bliss Hoi An Beach Resort & Wellness",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 2688219,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 2467,
+    "stars": 5,
+    "location": "Thang Binh, Hoi An",
+    "distance_to_center": 14.4,
+    "transportation_options": [
+      "Airport transfer [both ways]",
+      "Airport transfer [one way]"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+16"
+    ]
+  },
+  {
+    "hotel_name": "Reu Boutique Hotel",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 1684036,
+    "rating": null,
+    "rating_status": "9.4Exceptional",
+    "review_count": 698,
+    "stars": 4,
+    "location": "Cam Chau, Hoi An",
+    "distance_to_center": 0.7,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "The Pearl Hoi An",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 1764583,
+    "rating": null,
+    "rating_status": "8.3Excellent",
+    "review_count": 4409,
+    "stars": 5,
+    "location": "Cam An, Hoi An",
+    "distance_to_center": 3.8,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Gia Huy Riverside Hotel Hoi An",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 631459,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 1233,
+    "stars": 4,
+    "location": "Thanh Ha, Hoi An",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Lasenta Boutique Hotel Hoian",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 1127749,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 5339,
+    "stars": 4,
+    "location": "Cam Chau, Hoi An",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Hadana Boutique Resort Hoi An",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 978254,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 2186,
+    "stars": 4,
+    "location": "Cam Chau, Hoi An",
+    "distance_to_center": 0.1,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+8"
+    ]
+  },
+  {
+    "hotel_name": "Chillax Old Town Villa",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 780651,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 2448,
+    "stars": 4,
+    "location": "Minh An, Hoi An",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Sứ Retreat Hoi An - Riverfront Resort",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 6606709,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 152,
+    "stars": 4,
+    "location": "Cam Thanh, Hoi An",
+    "distance_to_center": 1.1,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Bellerive Hoi An Resort and Spa",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 1432318,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 1108,
+    "stars": 5,
+    "location": "Cửa Đại, Hoi An",
+    "distance_to_center": 3.4,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Premier Senvila Boutique Resort & Spa",
+    "city": "Hoi An",
+    "country": "Vietnam",
+    "price_per_night": 767815,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 2934,
+    "stars": 4,
+    "location": "Cam Thanh, Hoi An",
+    "distance_to_center": 1.5,
+    "transportation_options": [
+      "Nguyen Tat Thanh Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+10"
+    ]
+  },
+  {
+    "hotel_name": "Maris Beach Hotel Phu Quoc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 648307,
+    "rating": null,
+    "rating_status": "8.3Excellent",
+    "review_count": 1082,
+    "stars": 4,
+    "location": "Duong To, Phu Quoc Island",
+    "distance_to_center": 0.9,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "An Phu Hotel",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 580047,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 3278,
+    "stars": 3,
+    "location": "Duong Dong, Phu Quoc Island",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "The Shells Resort & Spa - Phu Quoc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 1790490,
+    "rating": null,
+    "rating_status": "8.3Excellent",
+    "review_count": 5753,
+    "stars": 5,
+    "location": "Ong Lang, Phu Quoc Island",
+    "distance_to_center": 2.8,
+    "transportation_options": [
+      "Airport transfer [both ways]",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Regent Phu Quoc By IHG",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 29747425,
+    "rating": null,
+    "rating_status": "9.4Exceptional",
+    "review_count": 1719,
+    "stars": 5,
+    "location": "Duong To, Phu Quoc Island",
+    "distance_to_center": 9.9,
+    "transportation_options": [
+      "Nearest transportation options"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Rocks Beach Boutique",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 1140483,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 476,
+    "stars": 4,
+    "location": "Ham Ninh, Phu Quoc Island",
+    "distance_to_center": 11.5,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Muong Thanh Luxury Phu Quoc Hotel",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 925926,
+    "rating": null,
+    "rating_status": "7.9Very good",
+    "review_count": 1810,
+    "stars": 4,
+    "location": "Duong To, Phu Quoc Island",
+    "distance_to_center": 7.3,
+    "transportation_options": [
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Express check-in",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Sunset Beach Resort & Spa",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 1270339,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 2004,
+    "stars": 4,
+    "location": "Duong Dong, Phu Quoc Island",
+    "distance_to_center": 0.0,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Vinpearl Resort & Spa Phú Quốc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 2510154,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 8443,
+    "stars": 5,
+    "location": "Gành Dầu, Phu Quoc Island",
+    "distance_to_center": 17.6,
+    "transportation_options": [
+      "Airport transfer [both ways]"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+11"
+    ]
+  },
+  {
+    "hotel_name": "La Festa Phu Quoc, Curio Collection by Hilton",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 6000000,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 2550,
+    "stars": 4,
+    "location": "An Thoi, Phu Quoc Island",
+    "distance_to_center": 19.1,
+    "transportation_options": [
+      "Nearest transportation options"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Dinner",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Venice Hotel Phu Quoc - Free Airport Shuttle & Sunset Town Tour",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 1736163,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 509,
+    "stars": 4,
+    "location": "An Thoi, Phu Quoc Island",
+    "distance_to_center": 19.0,
+    "transportation_options": [
+      "Nearest transportation options"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+10"
+    ]
+  },
+  {
+    "hotel_name": "Radisson Blu Resort Phu Quoc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 2750000,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 3223,
+    "stars": 5,
+    "location": "Gành Dầu, Phu Quoc Island",
+    "distance_to_center": 16.4,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Lunch",
+      "Dinner",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "La isla Apartments & Villas - Sea View & Fireworks Phu Quoc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 692751,
+    "rating": null,
+    "rating_status": "8.2Excellent",
+    "review_count": 441,
+    "stars": 5,
+    "location": "An Thoi, Phu Quoc Island",
+    "distance_to_center": 19.3,
+    "transportation_options": [
+      "Nearest transportation options"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "SOL By Melia Phu Quoc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 2508057,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 3358,
+    "stars": 5,
+    "location": "Duong To, Phu Quoc Island",
+    "distance_to_center": 5.8,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Salinda Resort Phu Quoc - Sparkling Wine Breakfast",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 5441825,
+    "rating": null,
+    "rating_status": "9.4Exceptional",
+    "review_count": 5881,
+    "stars": 5,
+    "location": "Cua Lap, Phu Quoc Island",
+    "distance_to_center": 1.6,
+    "transportation_options": [],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Pullman Phu Quoc Beach Resort",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 3868750,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 4375,
+    "stars": 5,
+    "location": "Duong To, Phu Quoc Island",
+    "distance_to_center": 8.7,
+    "transportation_options": [
+      "Airport transfer [both ways]"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Rosie Hillside Seaview Phu Quoc Apartment",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 767404,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 759,
+    "stars": 5,
+    "location": "An Thoi, Phu Quoc Island",
+    "distance_to_center": 19.2,
+    "transportation_options": [
+      "Nearest transportation options",
+      "Parking"
+    ],
+    "amenities": [
+      "Free pool access",
+      "Parking",
+      "Car rental",
+      "+7"
+    ]
+  },
+  {
+    "hotel_name": "Coral Bay Hotel & Resort Phu Quoc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 961402,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 3158,
+    "stars": 3,
+    "location": "Duong Dong, Phu Quoc Island",
+    "distance_to_center": 0.4,
+    "transportation_options": [
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Seashells Phu Quoc Hotel & Spa",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 2828095,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 14460,
+    "stars": 5,
+    "location": "Duong Dong, Phu Quoc Island",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Airport transfer [both ways]"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Vinholidays Fiesta Phú Quốc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 1261023,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 8080,
+    "stars": 4,
+    "location": "Gành Dầu, Phu Quoc Island",
+    "distance_to_center": 15.7,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Thien Thanh Phu Quoc Resort",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 1527425,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 2152,
+    "stars": 5,
+    "location": "Duong Dong, Phu Quoc Island",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Airport transfer [both ways]"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+8"
+    ]
+  },
+  {
+    "hotel_name": "Mercury Phu Quoc Resort and Villas",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 1251012,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 2057,
+    "stars": 4,
+    "location": "Cua Lap, Phu Quoc Island",
+    "distance_to_center": 4.0,
+    "transportation_options": [
+      "Airport transfer [both ways]"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+7"
+    ]
+  },
+  {
+    "hotel_name": "Rova Hotel Phú Quốc",
+    "city": "Phu Quoc",
+    "country": "Vietnam",
+    "price_per_night": 868298,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 433,
+    "stars": 3,
+    "location": "An Thoi, Phu Quoc Island",
+    "distance_to_center": 18.8,
+    "transportation_options": [
+      "Nearest transportation options",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Sapa Heaven House",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 404487,
+    "rating": null,
+    "rating_status": "8.4Excellent",
+    "review_count": 547,
+    "stars": 3,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Express check-in",
+      "+1"
+    ]
+  },
+  {
+    "hotel_name": "Sapa Jade Hill Resort & Spa",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 1994580,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 1427,
+    "stars": 4,
+    "location": "Lao Chải Tả Ván, Sapa",
+    "distance_to_center": 1.4,
+    "transportation_options": [
+      "Sapa Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Pao's Sapa Leisure Hotel",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 5308751,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 5334,
+    "stars": 5,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.5,
+    "transportation_options": [
+      "Sapa Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Pistachio Hotel Sapa",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 3017653,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 10864,
+    "stars": 4,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Sapa Bus Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "DeLaSol Sapa - Central Boutique Hotel",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 910309,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 1648,
+    "stars": 4,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Sapa Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Viettrekking Sapa",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 1301296,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 2206,
+    "stars": 4,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Sapa Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Welcome drink",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "KK Sapa Hotel",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 3069698,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 8495,
+    "stars": 5,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.1,
+    "transportation_options": [
+      "Sapa Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Hotel de la Coupole - MGallery",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 3826800,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 4576,
+    "stars": 5,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Sapa Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Sapa CatCat Hills Resort & Spa",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 1849778,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 2954,
+    "stars": 4,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.3,
+    "transportation_options": [
+      "Sapa Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Saparis Station Hostel & Travel",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 329100,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 200,
+    "stars": 3,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "The Mong Village Resort & Spa",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 1920044,
+    "rating": null,
+    "rating_status": "8.4Excellent",
+    "review_count": 419,
+    "stars": 4,
+    "location": "Lao Chải Tả Ván, Sapa",
+    "distance_to_center": 1.9,
+    "transportation_options": [
+      "Sapa Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Express check-in"
+    ]
+  },
+  {
+    "hotel_name": "Silk Path Grand Sapa Resort & Spa",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 2487150,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 3983,
+    "stars": 5,
+    "location": "Sa Pa City Center, Sapa - 29 m to center",
+    "distance_to_center": null,
+    "transportation_options": [
+      "Sapa Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Sapa Harmony Homestay",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 259981,
+    "rating": null,
+    "rating_status": "9.4Exceptional",
+    "review_count": 322,
+    "stars": 3,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Parking"
+    ],
+    "amenities": [
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Bamboo Sapa Hotel",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 2806348,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 2326,
+    "stars": 4,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Sapa Bus Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Azure Sapa Hotel",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 931601,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 894,
+    "stars": 4,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Sapa Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Express check-in",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "A25 Hotel - 29 Thác Bạc - Sapa",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 947107,
+    "rating": null,
+    "rating_status": "9.4Exceptional",
+    "review_count": 214,
+    "stars": 3,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Sapa Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Sapa Center View Hotel",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 322751,
+    "rating": null,
+    "rating_status": "7.9Very good",
+    "review_count": 712,
+    "stars": 2,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Sapa Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Parking",
+      "Express check-in",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Hotel Sapa Square, Affiliated by Melia",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 1309524,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 1122,
+    "stars": 4,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Sapa Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Welcome drink",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "The Link Farmstay",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 322256,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 370,
+    "stars": 5,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 1.1,
+    "transportation_options": [
+      "Sapa Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Lá Đỏ 2 Homestay & Coffee",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 1412579,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 675,
+    "stars": 5,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Sapa Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Car rental",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Lady Hill Sapa Resort",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 4593250,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 1910,
+    "stars": 5,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 1.3,
+    "transportation_options": [
+      "Sapa Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Scenery Hotel Sapa",
+    "city": "Sapa",
+    "country": "Vietnam",
+    "price_per_night": 380073,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 1002,
+    "stars": 3,
+    "location": "Sa Pa City Center, Sapa",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Sapa Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Radisson Resort Phan Thiet",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 2804233,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 1636,
+    "stars": 4,
+    "location": "Tien Thanh, Phan Thiet",
+    "distance_to_center": 19.1,
+    "transportation_options": [
+      "South Phan Thiet Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Lunch",
+      "Free WiFi",
+      "Dinner",
+      "+1"
+    ]
+  },
+  {
+    "hotel_name": "Apec Mandala Mui Ne - Resort Hotel Apartment",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 598688,
+    "rating": null,
+    "rating_status": "8.0Excellent",
+    "review_count": 324,
+    "stars": 5,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 11.6,
+    "transportation_options": [
+      "Parking"
+    ],
+    "amenities": [
+      "Parking",
+      "Motorcycle rental",
+      "Car rental",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Sea Lion Beach Resort Mui Ne",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 938968,
+    "rating": null,
+    "rating_status": "8.1Excellent",
+    "review_count": 826,
+    "stars": 4,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanh Cafe Coach Stop",
+      "Sinh Cafe Coach Stop"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Centara Mirage Resort Mui Ne",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 1851300,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 10096,
+    "stars": 5,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 1.8,
+    "transportation_options": [
+      "Phuong Trang Coach Station",
+      "Sinh Cafe Coach Stop"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Lunch",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Vipol Mui Ne Hotel & Spa",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 1252084,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 2490,
+    "stars": 4,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanh Cafe Coach Stop",
+      "Sinh Cafe Coach Stop"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+8"
+    ]
+  },
+  {
+    "hotel_name": "Asteria Mui Ne Resort",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 3525136,
+    "rating": null,
+    "rating_status": "8.6Excellent",
+    "review_count": 738,
+    "stars": 5,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 5.3,
+    "transportation_options": [
+      "Phuong Trang Coach Station",
+      "Sinh Cafe Coach Stop"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "The Clay Resort",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 1417851,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 1876,
+    "stars": 3,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanh Cafe Coach Stop",
+      "Sinh Cafe Coach Stop"
+    ],
+    "amenities": [
+      "Breakfast"
+    ]
+  },
+  {
+    "hotel_name": "RUBENS BOUTIQUE HOTEL",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 918519,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 2267,
+    "stars": 3,
+    "location": "Phú Thủy, Phan Thiet",
+    "distance_to_center": 7.6,
+    "transportation_options": [
+      "Phan Thiet Train Station",
+      "Binh Thuan Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Muong Thanh Holiday Mui Ne Hotel",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 1276773,
+    "rating": null,
+    "rating_status": "8.0Excellent",
+    "review_count": 4743,
+    "stars": 4,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 0.7,
+    "transportation_options": [
+      "Phuong Trang Coach Station",
+      "Sinh Cafe Coach Stop"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Lotus Village Resort - Muine",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 1038552,
+    "rating": null,
+    "rating_status": "8.2Excellent",
+    "review_count": 5509,
+    "stars": 3,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanh Cafe Coach Stop",
+      "Sinh Cafe Coach Stop",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Express check-in",
+      "+1"
+    ]
+  },
+  {
+    "hotel_name": "DU PARC RESORT MUI NE",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 1279337,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 290,
+    "stars": 4,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 11.3,
+    "transportation_options": [],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Late check-out",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Pandora Sand Hill Mũi Né Resort",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 973498,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 287,
+    "stars": 4,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanh Cafe Coach Stop",
+      "Sinh Cafe Coach Stop",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Perolas Villas Resort - Ke Ga Bay",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 3195639,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 268,
+    "stars": 4,
+    "location": "Ham Thuan Nam, Phan Thiet",
+    "distance_to_center": 36.5,
+    "transportation_options": [],
+    "amenities": [
+      "2 meals included",
+      "Breakfast",
+      "+14"
+    ]
+  },
+  {
+    "hotel_name": "Movenpick Resort Phan Thiet",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 1866086,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 3833,
+    "stars": 5,
+    "location": "Tien Thanh, Phan Thiet",
+    "distance_to_center": 18.2,
+    "transportation_options": [
+      "South Phan Thiet Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Lunch",
+      "Free WiFi",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Amana Hotel Phan Thiet",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 842817,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 230,
+    "stars": 3,
+    "location": "Phú Thủy, Phan Thiet",
+    "distance_to_center": 7.7,
+    "transportation_options": [
+      "South Phan Thiet Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Lunch",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "The Anam Mui Ne",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 4274909,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 3247,
+    "stars": 5,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanh Cafe Coach Stop",
+      "Sinh Cafe Coach Stop"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Meraki Oasis Hotel",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 797093,
+    "rating": null,
+    "rating_status": "8.6Excellent",
+    "review_count": 4159,
+    "stars": 2,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Sinh Cafe Coach Stop",
+      "Phuong Trang Coach Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Sailing Club Resort Mui Ne",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 3217269,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 1741,
+    "stars": 4,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanh Cafe Coach Stop",
+      "Sinh Cafe Coach Stop",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Sunsea Resort",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 2624868,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 992,
+    "stars": 3,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanh Cafe Coach Stop",
+      "Sinh Cafe Coach Stop"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "The Cliff Resort and Residences",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 13560245,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 6598,
+    "stars": 4,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 0.8,
+    "transportation_options": [
+      "Hanh Cafe Coach Stop",
+      "Sinh Cafe Coach Stop"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "De' TuVa resort Mui Ne",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 1725864,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 295,
+    "stars": 3,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 0.5,
+    "transportation_options": [
+      "Phuong Trang Coach Station",
+      "Sinh Cafe Coach Stop",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Bamboo Village Beach Resort",
+    "city": "Phan Thiet",
+    "country": "Vietnam",
+    "price_per_night": 3096852,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 6282,
+    "stars": 4,
+    "location": "Mui Ne, Phan Thiet",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hanh Cafe Coach Stop",
+      "Sinh Cafe Coach Stop",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi",
+      "+1"
+    ]
+  },
+  {
+    "hotel_name": "Golden Sun Hotel - Dalat",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 1971459,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 780,
+    "stars": 5,
+    "location": "Xuan Huong Lake, Dalat",
+    "distance_to_center": 0.7,
+    "transportation_options": [
+      "Dalat Old Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "La Fleur Premium Central Apartment Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 1056526,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 2281,
+    "stars": 4,
+    "location": "Dalat City Center, Dalat",
+    "distance_to_center": 0.4,
+    "transportation_options": [
+      "Dalat Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Sweet Lavender Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 475222,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 1268,
+    "stars": 3,
+    "location": "Dalat City Center, Dalat",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dalat Bus Station"
+    ],
+    "amenities": [
+      "Room sanitizing",
+      "Medical staff on call",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Goldient Boutique Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 1178144,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 2632,
+    "stars": 4,
+    "location": "Dalat City Center, Dalat",
+    "distance_to_center": 1.6,
+    "transportation_options": [
+      "Dalat Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+8"
+    ]
+  },
+  {
+    "hotel_name": "Le House Dalat",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 944465,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 1145,
+    "stars": 4,
+    "location": "Dalat City Center, Dalat",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dalat Old Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Greenview City Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 507211,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 626,
+    "stars": 3,
+    "location": "Old Train Station, Dalat",
+    "distance_to_center": 1.9,
+    "transportation_options": [
+      "Dalat Old Railway Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Colline Dalat",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 1979268,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 5654,
+    "stars": 4,
+    "location": "Dalat City Center, Dalat",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dalat Old Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "MerPerle Dalat Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 2008655,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 2029,
+    "stars": 5,
+    "location": "Old Train Station, Dalat",
+    "distance_to_center": 1.7,
+    "transportation_options": [
+      "Dalat Old Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Villa đa lat Trung Nghia 1",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 185185,
+    "rating": null,
+    "rating_status": "8.0Excellent",
+    "review_count": 235,
+    "stars": 4,
+    "location": "Old Train Station, Dalat",
+    "distance_to_center": 2.0,
+    "transportation_options": [
+      "Dalat Old Railway Station"
+    ],
+    "amenities": [
+      "Express check-in",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Le Recit Boutique Hotel de Dalat",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 1480274,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 2740,
+    "stars": 4,
+    "location": "Dalat City Center, Dalat",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dalat Old Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free Premium Wifi",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Mơ Stay - Forest Resort",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 4166138,
+    "rating": null,
+    "rating_status": "9.4Exceptional",
+    "review_count": 547,
+    "stars": 4,
+    "location": "Tuyen Lam Lake, Dalat",
+    "distance_to_center": 6.4,
+    "transportation_options": [
+      "Dalat Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "The Western Hill Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 966707,
+    "rating": null,
+    "rating_status": "7.9Very good",
+    "review_count": 2696,
+    "stars": 4,
+    "location": "Dalat City Center, Dalat",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dalat Old Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Artis Hotel Dalat",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 907548,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 2165,
+    "stars": 3,
+    "location": "Dalat City Center, Dalat",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dalat Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Welcome drink",
+      "Parking",
+      "Express check-in",
+      "+1"
+    ]
+  },
+  {
+    "hotel_name": "Len's Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 738055,
+    "rating": null,
+    "rating_status": "8.6Excellent",
+    "review_count": 2049,
+    "stars": 3,
+    "location": "Dalat City Center, Dalat",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dalat Old Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free Premium Wifi",
+      "+2"
+    ]
+  },
+  {
+    "hotel_name": "Mùa Dalat Wellness Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 1153480,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 583,
+    "stars": 4,
+    "location": "Dalat City Center, Dalat",
+    "distance_to_center": 0.9,
+    "transportation_options": [
+      "Dalat Old Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "+9"
+    ]
+  },
+  {
+    "hotel_name": "Brick House Dalat Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 695393,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 2248,
+    "stars": 3,
+    "location": "Dalat City Center, Dalat",
+    "distance_to_center": 0.8,
+    "transportation_options": [
+      "Dalat Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "He Maison Boutique Stay & cafe",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 1314580,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 218,
+    "stars": 3,
+    "location": "Old Train Station, Dalat",
+    "distance_to_center": 2.6,
+    "transportation_options": [],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Amory Dalat Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 443917,
+    "rating": null,
+    "rating_status": "9.3Exceptional",
+    "review_count": 41,
+    "stars": 4,
+    "location": "Old Train Station, Dalat",
+    "distance_to_center": 3.1,
+    "transportation_options": [
+      "Parking"
+    ],
+    "amenities": [
+      "Welcome drink",
+      "Parking",
+      "Express check-in",
+      "+1"
+    ]
+  },
+  {
+    "hotel_name": "Michelia Valley Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 211865,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 142,
+    "stars": 2,
+    "location": "Tuyen Lam Lake, Dalat",
+    "distance_to_center": 1.9,
+    "transportation_options": [],
+    "amenities": [
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Terracotta Hotel and Resort Dalat",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 1545908,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 8392,
+    "stars": 4,
+    "location": "Tuyen Lam Lake, Dalat",
+    "distance_to_center": 4.9,
+    "transportation_options": [
+      "Dalat Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Dalat Palace Heritage Hotel",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 2933858,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 1754,
+    "stars": 5,
+    "location": "Dalat City Center, Dalat",
+    "distance_to_center": 0.4,
+    "transportation_options": [
+      "Dalat Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Be U Hotel City View",
+    "city": "Dalat",
+    "country": "Vietnam",
+    "price_per_night": 303764,
+    "rating": null,
+    "rating_status": "8.4Excellent",
+    "review_count": 1896,
+    "stars": 3,
+    "location": "Dalat City Center, Dalat",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dalat Old Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Welcome drink",
+      "Parking",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Melia Vinpearl Hue",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 1734778,
+    "rating": null,
+    "rating_status": "9.4Exceptional",
+    "review_count": 8435,
+    "stars": 5,
+    "location": "Hue City, Hue",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dong Ba Bus Station",
+      "Hue Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free gift",
+      "Free WiFi",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Kly Luxury Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 434431,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 347,
+    "stars": null,
+    "location": "Hue City, Hue",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Hue Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Late check-out",
+      "Parking",
+      "Car rental",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Ancient Hue Garden Houses",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 3259405,
+    "rating": null,
+    "rating_status": "9.5Exceptional",
+    "review_count": 715,
+    "stars": 5,
+    "location": "Imperial Citadel, Hue",
+    "distance_to_center": 2.2,
+    "transportation_options": [
+      "Hue Railway Station",
+      "An Hoa Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "LA VELA HUE HOTEL",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 1039016,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 3478,
+    "stars": 5,
+    "location": "Hue City, Hue",
+    "distance_to_center": 2.9,
+    "transportation_options": [
+      "Dong Ba Bus Station",
+      "Hue Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Mondial Hotel Hue",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 956999,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 2468,
+    "stars": 4,
+    "location": "Hue City, Hue",
+    "distance_to_center": 0.4,
+    "transportation_options": [
+      "Hue Railway Station",
+      "Dong Ba Bus Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Magnolia Boutique Hue",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 626946,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 85,
+    "stars": 4,
+    "location": "Hue City, Hue",
+    "distance_to_center": 0.9,
+    "transportation_options": [
+      "Parking"
+    ],
+    "amenities": [
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "TTC Imperial Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 1355964,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 4427,
+    "stars": 5,
+    "location": "Hue City, Hue",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dong Ba Bus Station",
+      "Hue Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Moonlight Hotel Hue",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 674421,
+    "rating": null,
+    "rating_status": "8.8Excellent",
+    "review_count": 2809,
+    "stars": 4,
+    "location": "Hue City, Hue",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dong Ba Bus Station",
+      "Hue Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Huong Giang Hotel Resort & Spa",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 734793,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 4023,
+    "stars": 4,
+    "location": "Perfume River, Hue",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dong Ba Bus Station",
+      "Hue Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Indochine Palace Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 1746032,
+    "rating": null,
+    "rating_status": "9.2Exceptional",
+    "review_count": 2599,
+    "stars": 5,
+    "location": "Hue City, Hue",
+    "distance_to_center": 0.5,
+    "transportation_options": [
+      "Dong Ba Bus Station",
+      "Hue Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Muong Thanh Holiday Hue Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 1031746,
+    "rating": null,
+    "rating_status": "8.5Excellent",
+    "review_count": 1841,
+    "stars": 4,
+    "location": "Perfume River, Hue",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dong Ba Bus Station",
+      "Hue Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Late check-out",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Alba Spa Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 719577,
+    "rating": null,
+    "rating_status": "9.0Exceptional",
+    "review_count": 2890,
+    "stars": 4,
+    "location": "Hue City, Hue",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dong Ba Bus Station",
+      "Hue Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Welcome drink",
+      "Late check-out",
+      "+9"
+    ]
+  },
+  {
+    "hotel_name": "Silk Path Grand Hue Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 1843987,
+    "rating": null,
+    "rating_status": "9.4Exceptional",
+    "review_count": 1978,
+    "stars": 5,
+    "location": "Hue City, Hue",
+    "distance_to_center": 0.7,
+    "transportation_options": [
+      "Hue Railway Station",
+      "Dong Ba Bus Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Senna Hue Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 1513228,
+    "rating": null,
+    "rating_status": "9.4Exceptional",
+    "review_count": 3733,
+    "stars": 5,
+    "location": "Hue City, Hue",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dong Ba Bus Station",
+      "Hue Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Moon Sun Boutique Villa",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 999947,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 381,
+    "stars": 3,
+    "location": "Hue City, Hue",
+    "distance_to_center": 4.8,
+    "transportation_options": [
+      "Hue Railway Station",
+      "Dong Ba Bus Station"
+    ],
+    "amenities": []
+  },
+  {
+    "hotel_name": "Saigon Morin Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 1252121,
+    "rating": null,
+    "rating_status": "8.7Excellent",
+    "review_count": 3950,
+    "stars": 4,
+    "location": "Perfume River, Hue",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dong Ba Bus Station",
+      "Hue Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+4"
+    ]
+  },
+  {
+    "hotel_name": "Hoàn Cầu Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 376738,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 56,
+    "stars": 3,
+    "location": "Hue City, Hue",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Parking"
+    ],
+    "amenities": [
+      "Welcome drink",
+      "Parking",
+      "+5"
+    ]
+  },
+  {
+    "hotel_name": "Century Riverside Hotel Hue",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 784532,
+    "rating": null,
+    "rating_status": "8.1Excellent",
+    "review_count": 4146,
+    "stars": 4,
+    "location": "Perfume River, Hue",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dong Ba Bus Station",
+      "Hue Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+8"
+    ]
+  },
+  {
+    "hotel_name": "Thanh Lich Royal Boutique Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 1172023,
+    "rating": null,
+    "rating_status": "9.1Exceptional",
+    "review_count": 4205,
+    "stars": 4,
+    "location": "Hue City, Hue",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dong Ba Bus Station",
+      "Hue Railway Station"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Free fitness center access",
+      "+3"
+    ]
+  },
+  {
+    "hotel_name": "Pilgrimage Village Boutique Resort & Spa",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 2083135,
+    "rating": null,
+    "rating_status": "9.5Exceptional",
+    "review_count": 3212,
+    "stars": 5,
+    "location": "Hue City, Hue",
+    "distance_to_center": 2.5,
+    "transportation_options": [
+      "Hue Railway Station",
+      "Dong Ba Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "hotel_name": "Hướng Dương Hotel",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 565643,
+    "rating": null,
+    "rating_status": "8.0Excellent",
+    "review_count": 832,
+    "stars": 3,
+    "location": "Hue City, Hue",
+    "distance_to_center": 0.0,
+    "transportation_options": [
+      "Dong Ba Bus Station",
+      "Hue Railway Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Welcome drink",
+      "Parking",
+      "Room sanitizing",
+      "+6"
+    ]
+  },
+  {
+    "hotel_name": "Sahi Homestay Retreat",
+    "city": "Hue",
+    "country": "Vietnam",
+    "price_per_night": 753221,
+    "rating": null,
+    "rating_status": "8.9Excellent",
+    "review_count": 287,
+    "stars": 4,
+    "location": "Perfume River, Hue",
+    "distance_to_center": 2.3,
+    "transportation_options": [
+      "Hue Railway Station",
+      "An Hoa Bus Station",
+      "Parking"
+    ],
+    "amenities": [
+      "Welcome drink",
+      "Free pool access",
+      "Parking",
+      "+2"
+    ]
+  }
+]
